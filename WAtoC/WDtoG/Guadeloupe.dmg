@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Guadeloupe</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Guadeloupe'>Search Google</a> <BR><a href='http://maps.google.com/?ll=16.2660294206085,-61.5351090266057&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-61.54187,16.29025,0 -61.46334,16.51291,0 -61.20556,16.26722,0 -61.56593000000001,16.22686,0 -61.68889,15.94778,0 -61.78362,16.33305,0 -61.54187,16.29025,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>GP</FIPS_CNTRY>
+			<GMI_CNTRY>GLP</GMI_CNTRY>
+			<ISO_2DIGIT>GP</ISO_2DIGIT>
+			<ISO_3DIGIT>GLP</ISO_3DIGIT>
+			<CNTRY_NAME>Guadeloupe</CNTRY_NAME>
+			<LONG_NAME>Guadeloupe</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>410638</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>1120.07</SQKM>
+			<SQMI>432.46</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

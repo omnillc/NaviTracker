@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Djibouti</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Djibouti'>Search Google</a> <BR><a href='http://maps.google.com/?ll=11.7259773074987,42.5507238390274&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							42.39972,12.46972,0 42.69861,12.36389,0 43.12138,12.70833,0 43.40444,12.03889,0 42.50861,11.56722,0 43.24922,11.46953,0 42.94409,11.00244,0 41.78972,11.00805,0 41.82902,11.74097,0 42.39972,12.46972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>DJ</FIPS_CNTRY>
+			<GMI_CNTRY>DJI</GMI_CNTRY>
+			<ISO_2DIGIT>DJ</ISO_2DIGIT>
+			<ISO_3DIGIT>DJI</ISO_3DIGIT>
+			<CNTRY_NAME>Djibouti</CNTRY_NAME>
+			<LONG_NAME>Djibouti</LONG_NAME>
+			<SOVEREIGN>Djibouti</SOVEREIGN>
+			<POP_CNTRY>450751</POP_CNTRY>
+			<CURR_TYPE>Djibouti Franc</CURR_TYPE>
+			<CURR_CODE>DJF</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>20502.8</SQKM>
+			<SQMI>7916.13</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Denmark</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Denmark'>Search Google</a> <BR><a href='http://maps.google.com/?ll=55.9647525329802,10.0417119069113&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_5</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>10.0417119069113,55.96475253298021,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.00666,57.09148,0 9.115549,57.05277000000001,0 8.676596,56.94812,0 8.415797,56.67813,0 8.579062,56.68767,0 8.545901000000001,56.58517000000001,0 8.244165000000001,56.70430000000001,0 8.260138,56.82777,0 8.618471,57.12152,0 9.017220999999999,57.15361,0 9.466248999999999,57.17889,0 9.957706,57.58625,0 10.64595,57.73627,0 10.4318,57.58569,0 10.53028,57.22256,0 10.33662,56.99166,0 10.00666,57.09148,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								8.664545,54.91309,0 8.676109,55.11417,0 8.457637999999999,55.12722,0 8.689026999999999,55.14006,0 8.618194000000001,55.43111,0 8.092916000000001,55.55621,0 8.127706999999999,55.98381000000001,0 8.191387000000001,55.81069,0 8.395693,55.89472000000001,0 8.262916000000001,56.07888000000001,0 8.108332000000001,56.01778,0 8.160693999999999,56.64555,0 8.740207,56.49013,0 8.680832000000001,56.61784,0 9.072782999999999,56.80761,0 9.062916,56.56576,0 9.318262000000001,56.52541,0 9.1782,56.91603,0 9.722132999999999,57.02242,0 9.974273999999999,57.07173,0 10.25864,56.99557,0 10.31189,56.9813,0 10.30528,56.74805000000001,0 9.866388000000001,56.65028000000001,0 10.34305,56.69263000000001,0 10.18778,56.46861,0 10.30867,56.57816,0 10.96194,56.44222,0 10.745,56.16389000000001,0 10.51972,56.09972,0 10.35569,56.19749000000001,0 10.44861,56.29194,0 10.23937,56.17261,0 10.18458,55.82819000000001,0 9.869581999999999,55.84375000000001,0 10.04444,55.81569,0 9.992777,55.70499000000001,0 9.554582,55.70298,0 9.819165999999999,55.60472000000001,0 9.673697000000001,55.50097,0 9.589722,55.41819000000001,0 9.677152,55.19117000000001,0 9.461525999999999,55.12215,0 9.766109999999999,54.89639,0 9.445358000000001,54.8254,0 8.664545,54.91309,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								8.655277,56.67416,0 8.546110000000001,56.79333,0 8.910831,56.94833000000001,0 8.655277,56.67416,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								12.55888,55.86724,0 12.59798,55.70256,0 12.19236,55.48243,0 12.46222,55.28958000000001,0 12.02555,55.16944000000001,0 12.17875,55.11847000000001,0 12.07194,54.96861,0 11.73055,55.06055,0 11.73083,55.20361,0 11.24542,55.20208,0 11.08639,55.66639000000001,0 10.87972,55.7343,0 11.34333,55.7475,0 11.51611,55.89513000000001,0 11.27333,55.99166,0 11.76833,55.96347000000001,0 11.67056,55.81416,0 11.79444,55.66166,0 11.91416,55.92972,0 12.05291,55.75111,0 12.04097,55.92167000000001,0 11.84708,55.95555000000001,0 12.29055,56.12888,0 12.61729,56.04013,0 12.55888,55.86724,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								9.688195,55.49825,0 10.0003,55.54126,0 10.31847,55.61444,0 10.47375,55.43763,0 10.66028,55.58764,0 10.78333,55.12409,0 10.15278,55.08444,0 9.683116,55.49412,0 9.679721000000001,55.49708,0 9.688195,55.49825,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								15.0425,54.99472000000001,0 14.67875,55.10083,0 14.74528,55.29403000000001,0 15.13764,55.14139,0 15.0425,54.99472000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.71472,54.725,0 10.68194,54.90861,0 10.95208,55.1593,0 10.71472,54.725,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10,54.98372000000001,0 10.0693,54.87388,0 9.931665000000001,54.86139,0 9.631457000000001,55.04902,0 10,54.98372000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								12.18361,54.88027,0 12.31194,55.03527,0 12.55646,54.96375,0 12.18361,54.88027,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.98989,54.79085000000001,0 11.23972,54.95722,0 11.65694,54.90388,0 11.85722,54.68638,0 11.45493,54.61986,0 10.98989,54.79085000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								11.85059,54.95478,0 12.16819,54.8377,0 11.9668,54.56194000000001,0 11.71097,54.93916,0 11.85059,54.95478,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>DA</FIPS_CNTRY>
+			<GMI_CNTRY>DNK</GMI_CNTRY>
+			<ISO_2DIGIT>DK</ISO_2DIGIT>
+			<ISO_3DIGIT>DNK</ISO_3DIGIT>
+			<CNTRY_NAME>Denmark</CNTRY_NAME>
+			<LONG_NAME>Denmark</LONG_NAME>
+			<SOVEREIGN>Denmark</SOVEREIGN>
+			<POP_CNTRY>4667750</POP_CNTRY>
+			<CURR_TYPE>Danish Krone</CURR_TYPE>
+			<CURR_CODE>DKK</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>41103.48</SQKM>
+			<SQMI>15870.05</SQMI>
+			<COLOR_MAP>6</COLOR_MAP>
+</Placemark></Folder></Document></kml>

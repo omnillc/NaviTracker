@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>El Salvador</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=El Salvador'>Search Google</a> <BR><a href='http://maps.google.com/?ll=13.7145189729483,-88.8654687558971&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-87.81558,13.40539,0 -87.93779000000001,13.15639,0 -88.53506,13.19911,0 -89.81854,13.5358,0 -90.09639,13.74583,0 -89.51817,14.23385,0 -89.57098000000001,14.41472,0 -89.34831000000001,14.43198,0 -88.46793,13.85472,0 -88.12195,13.99055,0 -87.75029000000001,13.86417,0 -87.81558,13.40539,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>ES</FIPS_CNTRY>
+			<GMI_CNTRY>SLV</GMI_CNTRY>
+			<ISO_2DIGIT>SV</ISO_2DIGIT>
+			<ISO_3DIGIT>SLV</ISO_3DIGIT>
+			<CNTRY_NAME>El Salvador</CNTRY_NAME>
+			<LONG_NAME>El Salvador</LONG_NAME>
+			<SOVEREIGN>El Salvador</SOVEREIGN>
+			<POP_CNTRY>5752470</POP_CNTRY>
+			<CURR_TYPE>Colon</CURR_TYPE>
+			<CURR_CODE>SVC</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>19916.57</SQKM>
+			<SQMI>7689.79</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

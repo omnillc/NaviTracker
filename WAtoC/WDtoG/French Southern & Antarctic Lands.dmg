@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>French Southern &amp; Antarctic Lands</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=French Southern & Antarctic Lands'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-49.2846377398291,69.4965426386406&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							69.21720999999999,-49.12556,0 69.58235000000002,-48.95042000000001,0 69.64103,-49.12257,0 69.28641,-49.19215,0 69.58275999999999,-49.30445,0 70.32916,-49.05083000000001,0 70.56749000000002,-49.22119,0 70.30902,-49.38125000000001,0 70.45915000000001,-49.44417000000001,0 69.77472,-49.39417,0 69.84081999999999,-49.55195000000001,0 70.32263,-49.54139,0 70.25624000000001,-49.68931000000001,0 69.25471,-49.51278,0 68.79208,-49.71875,0 68.88083,-49.40362,0 68.74027,-49.06889000000001,0 68.95666,-48.66667,0 69.07889,-48.69501,0 68.95111,-48.84723000000001,0 69.18694000000001,-48.77278,0 69.0013,-49.08855,0 69.11763000000001,-48.99473,0 69.21720999999999,-49.12556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>FS</FIPS_CNTRY>
+			<GMI_CNTRY>ATF</GMI_CNTRY>
+			<ISO_2DIGIT>TF</ISO_2DIGIT>
+			<ISO_3DIGIT>ATF</ISO_3DIGIT>
+			<CNTRY_NAME>French Southern &amp; Antarctic Lands</CNTRY_NAME>
+			<LONG_NAME>French Southern &amp; Antarctic Lands</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>-99999</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>6290.3</SQKM>
+			<SQMI>2428.69</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

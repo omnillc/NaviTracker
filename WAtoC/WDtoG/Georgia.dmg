@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Georgia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Georgia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=42.1751305576144,43.5298798678848&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							45.02294000000001,41.29705,0 43.46077,41.11296,0 42.83102,41.58242,0 42.47221,41.43333,0 41.53156,41.52388,0 41.77473,41.88563,0 41.4561,42.71429,0 40.00297,43.37926,0 40.25339,43.58252,0 41.59748,43.22151,0 42.8552,43.17776,0 43.82915,42.74937,0 43.73966000000001,42.64957,0 43.91193,42.58332,0 44.9311,42.7611,0 45.72763,42.50485,0 45.65512,42.19999,0 46.45175,41.89706,0 46.19443,41.69804000000001,0 46.68964,41.31735,0 46.51471,41.04804,0 45.34158999999999,41.46096,0 45.02294000000001,41.29705,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>GG</FIPS_CNTRY>
+			<GMI_CNTRY>GEO</GMI_CNTRY>
+			<ISO_2DIGIT>GE</ISO_2DIGIT>
+			<ISO_3DIGIT>GEO</ISO_3DIGIT>
+			<CNTRY_NAME>Georgia</CNTRY_NAME>
+			<LONG_NAME>Georgia</LONG_NAME>
+			<SOVEREIGN>Georgia</SOVEREIGN>
+			<POP_CNTRY>5595552</POP_CNTRY>
+			<CURR_TYPE>Lari</CURR_TYPE>
+			<CURR_CODE>GEL</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>69676.67</SQKM>
+			<SQMI>26902.16</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>
