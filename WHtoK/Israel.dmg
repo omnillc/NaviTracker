@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Israel</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Israel'>Search Google</a> <BR><a href='http://maps.google.com/?ll=31.3792700718071,34.9550217252981&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_5</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>34.9550217252981,31.3792700718071,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.4782,31.49731999999999,0 34.97998,29.54575000000001,0 34.9038,29.48671,0 34.26758,31.21653999999999,0 34.49055,31.5961,0 35.10083000000001,33.09361,0 35.42555,33.06833,0 35.62363,33.24573,0 35.64889,32.68527,0 35.55257,32.3942,0 35.0818,32.47145,0 34.96556,31.83055,0 35.20972,31.75,0 34.88819,31.41250000000001,0 35.4782,31.49731999999999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								35.24792,31.80844,0 35.26312,31.7965,0 35.25281,31.78727,0 35.24792,31.80844,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>IS</FIPS_CNTRY>
+			<GMI_CNTRY>ISR</GMI_CNTRY>
+			<ISO_2DIGIT>IL</ISO_2DIGIT>
+			<ISO_3DIGIT>ISR</ISO_3DIGIT>
+			<CNTRY_NAME>Israel</CNTRY_NAME>
+			<LONG_NAME>Israel</LONG_NAME>
+			<SOVEREIGN>Israel</SOVEREIGN>
+			<POP_CNTRY>5694890</POP_CNTRY>
+			<CURR_TYPE>Shekel</CURR_TYPE>
+			<CURR_CODE>ILS</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>22670.52</SQKM>
+			<SQMI>8753.09</SQMI>
+			<COLOR_MAP>6</COLOR_MAP>
+</Placemark></Folder></Document></kml>

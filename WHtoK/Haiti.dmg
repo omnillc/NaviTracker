@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Haiti</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Haiti'>Search Google</a> <BR><a href='http://maps.google.com/?ll=18.9325571291447,-72.6649949469172&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-72.66499494691722,18.9325571291447,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-71.76787,18.0385,0 -72.07236,18.24,0 -72.81583000000001,18.13847,0 -73.38639999999999,18.26194,0 -73.88167000000001,18.02278,0 -74.46778999999999,18.45083,0 -74.23668000000001,18.66722,0 -72.73667,18.42458,0 -72.36875999999999,18.52569,0 -72.32973,18.68347,0 -72.80029,19.03305,0 -72.72333999999999,19.455,0 -73.40765,19.6343,0 -73.41806,19.81972,0 -72.78445000000001,19.94222,0 -71.75418000000001,19.70583,0 -71.62918000000001,19.21972,0 -71.71584,18.74972,0 -72.00306999999999,18.60083,0 -71.69473000000001,18.32222,0 -71.76787,18.0385,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-72.82584,18.69555,0 -73.3,18.92722,0 -72.85722,18.835,0 -72.82584,18.69555,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>HA</FIPS_CNTRY>
+			<GMI_CNTRY>HTI</GMI_CNTRY>
+			<ISO_2DIGIT>HT</ISO_2DIGIT>
+			<ISO_3DIGIT>HTI</ISO_3DIGIT>
+			<CNTRY_NAME>Haiti</CNTRY_NAME>
+			<LONG_NAME>Haiti</LONG_NAME>
+			<SOVEREIGN>Haiti</SOVEREIGN>
+			<POP_CNTRY>7044890</POP_CNTRY>
+			<CURR_TYPE>Gourde</CURR_TYPE>
+			<CURR_CODE>HTG</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>27949.04</SQKM>
+			<SQMI>10791.12</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

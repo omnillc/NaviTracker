@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Kenya</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Kenya'>Search Google</a> <BR><a href='http://maps.google.com/?ll=0.517086021250898,37.8494254195766&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							41.90517,3.980322,0 40.99135,2.835533,0 40.99833,-0.8661112000000001,0 41.55816,-1.674868,0 41.31528000000001,-1.958056,0 40.89166,-2.019167,0 40.98208,-2.257222,0 40.63048,-2.552847,0 40.23111,-2.671111,0 40.12548,-3.265695,0 39.4025,-4.633889000000001,0 39.20303,-4.669618,0 37.62638,-3.509514,0 37.71999,-3.311944,0 37.60278,-2.995833,0 33.9211,-1.001945,0 33.90722,0.1030556,0 34.52,1.105836,0 34.82034,1.235972,0 35.00972000000001,1.895278,0 34.90944,2.521111,0 34.40374,3.385278,0 34.46361,3.664653,0 34.22222,3.779166,0 33.99667,4.222777,0 34.38819,4.609682,0 35.94055,4.622499,0 36.0453,4.44708,0 37.03972,4.375555,0 38.12111,3.611666,0 39.51902,3.409305,0 39.86666,3.869444000000001,0 40.78377,4.287975,0 41.16055,3.945833,0 41.90517,3.980322,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>KE</FIPS_CNTRY>
+			<GMI_CNTRY>KEN</GMI_CNTRY>
+			<ISO_2DIGIT>KE</ISO_2DIGIT>
+			<ISO_3DIGIT>KEN</ISO_3DIGIT>
+			<CNTRY_NAME>Kenya</CNTRY_NAME>
+			<LONG_NAME>Kenya</LONG_NAME>
+			<SOVEREIGN>Kenya</SOVEREIGN>
+			<POP_CNTRY>25835250</POP_CNTRY>
+			<CURR_TYPE>Schilling</CURR_TYPE>
+			<CURR_CODE>KES</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>584683.38</SQKM>
+			<SQMI>225746.27</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

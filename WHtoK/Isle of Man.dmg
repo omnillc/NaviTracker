@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Isle of Man</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Isle of Man'>Search Google</a> <BR><a href='http://maps.google.com/?ll=54.2173105875651,-4.50856526692708&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-4.777779,54.05554999999999,0 -4.353473,54.41,0 -4.394444,54.18639,0 -4.777779,54.05554999999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>IM</FIPS_CNTRY>
+			<GMI_CNTRY>XIM</GMI_CNTRY>
+			<ISO_3DIGIT>IMY</ISO_3DIGIT>
+			<CNTRY_NAME>Isle of Man</CNTRY_NAME>
+			<LONG_NAME>Man, Isle of</LONG_NAME>
+			<SOVEREIGN>United Kingdom</SOVEREIGN>
+			<POP_CNTRY>71296</POP_CNTRY>
+			<CURR_TYPE>Pound Sterling</CURR_TYPE>
+			<CURR_CODE>GBP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>289.82</SQKM>
+			<SQMI>111.9</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

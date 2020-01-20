@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Kuwait</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Kuwait'>Search Google</a> <BR><a href='http://maps.google.com/?ll=29.3285921515788,47.5709166581257&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>47.5709166581257,29.3285921515788,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								48.41659,28.54528000000001,0 47.68888000000001,28.53888,0 47.45999,28.99944,0 46.54694000000001,29.1042,0 47.16999,30.01527000000001,0 47.94347,30.01756,0 48.16687000000001,29.56514,0 47.95596,29.62374000000001,0 47.70722000000001,29.37583,0 48.0286,29.34499,0 48.41659,28.54528000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								48.18854000000001,29.98193,0 48.35944,29.745,0 48.22831999999999,29.59528,0 48.07999000000001,29.77333,0 48.18854000000001,29.98193,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>KU</FIPS_CNTRY>
+			<GMI_CNTRY>KWT</GMI_CNTRY>
+			<ISO_2DIGIT>KW</ISO_2DIGIT>
+			<ISO_3DIGIT>KWT</ISO_3DIGIT>
+			<CNTRY_NAME>Kuwait</CNTRY_NAME>
+			<LONG_NAME>Kuwait</LONG_NAME>
+			<SOVEREIGN>Kuwait</SOVEREIGN>
+			<POP_CNTRY>1639000</POP_CNTRY>
+			<CURR_TYPE>Dinar</CURR_TYPE>
+			<CURR_CODE>KWD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>16688.05</SQKM>
+			<SQMI>6443.26</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

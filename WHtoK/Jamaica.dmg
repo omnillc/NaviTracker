@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Jamaica</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Jamaica'>Search Google</a> <BR><a href='http://maps.google.com/?ll=18.1495947983529,-77.3287143049007&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.73584,18.50502,0 -76.94528,18.39444,0 -76.34166999999999,18.14972,0 -76.22112,17.90416,0 -76.83292,17.98708,0 -76.95153000000002,17.8293,0 -77.13196000000001,17.87889,0 -77.1657,17.69722,0 -77.73557,17.85,0 -78.05723999999999,18.19639,0 -78.37390000000001,18.25458,0 -78.21098000000001,18.45139,0 -77.73584,18.50502,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>JM</FIPS_CNTRY>
+			<GMI_CNTRY>JAM</GMI_CNTRY>
+			<ISO_2DIGIT>JM</ISO_2DIGIT>
+			<ISO_3DIGIT>JAM</ISO_3DIGIT>
+			<CNTRY_NAME>Jamaica</CNTRY_NAME>
+			<LONG_NAME>Jamaica</LONG_NAME>
+			<SOVEREIGN>Jamaica</SOVEREIGN>
+			<POP_CNTRY>2407607</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>JMD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>10991.5</SQKM>
+			<SQMI>4243.82</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

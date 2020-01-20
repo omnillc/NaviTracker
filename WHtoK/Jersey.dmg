@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Jersey</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Jersey'>Search Google</a> <BR><a href='http://maps.google.com/?ll=49.2157466289336,-2.12730513767797&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_2</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffbee8</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-2.234309,49.25893,0 -2.037354,49.24396,0 -2.021581,49.17723,0 -2.206404,49.18128,0 -2.234309,49.25893,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>JE</FIPS_CNTRY>
+			<GMI_CNTRY>XJE</GMI_CNTRY>
+			<CNTRY_NAME>Jersey</CNTRY_NAME>
+			<LONG_NAME>Jersey</LONG_NAME>
+			<SOVEREIGN>United Kingdom</SOVEREIGN>
+			<POP_CNTRY>87848</POP_CNTRY>
+			<CURR_TYPE>Pound Sterling</CURR_TYPE>
+			<CURR_CODE>GBP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>109.62</SQKM>
+			<SQMI>42.32</SQMI>
+			<COLOR_MAP>3</COLOR_MAP>
+</Placemark></Folder></Document></kml>

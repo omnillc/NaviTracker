@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Jarvis I.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Jarvis I.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-0.384336878856023,-160.030380249023&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_2</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffbee8</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-160.0178,-0.3747457,0 -160.0282,-0.3981747,0 -160.0452,-0.3800902,0 -160.0178,-0.3747457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>DQ</FIPS_CNTRY>
+			<GMI_CNTRY>UMI</GMI_CNTRY>
+			<ISO_2DIGIT>UM</ISO_2DIGIT>
+			<CNTRY_NAME>Jarvis I.</CNTRY_NAME>
+			<LONG_NAME>Jarvis Island</LONG_NAME>
+			<SOVEREIGN>United States</SOVEREIGN>
+			<POP_CNTRY>-99999</POP_CNTRY>
+			<CURR_CODE>NCIC</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>3.62</SQKM>
+			<SQMI>1.4</SQMI>
+			<COLOR_MAP>3</COLOR_MAP>
+</Placemark></Folder></Document></kml>

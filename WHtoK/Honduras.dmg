@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Honduras</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Honduras'>Search Google</a> <BR><a href='http://maps.google.com/?ll=14.8086134892847,-86.6411985257853&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.83105,15.27128,0 -83.75834999999999,15.19666,0 -83.59274000000001,15.24937,0 -83.61668,15.34725,0 -83.13185,14.99298,0 -83.48584,15.00611,0 -84.48049,14.61882,0 -84.91001,14.80667,0 -85.15913,14.33566,0 -85.73639000000001,13.82861,0 -86.07013999999999,14.05597,0 -86.32557,13.76347,0 -86.7586,13.754,0 -86.69605000000001,13.29882,0 -86.90258,13.24861,0 -87.02278,12.98819,0 -87.30139,12.9866,0 -87.51181000000001,13.27729,0 -87.39834,13.41236,0 -87.81558,13.40539,0 -87.75029000000001,13.86417,0 -88.12195,13.99055,0 -88.46793,13.85472,0 -89.34831000000001,14.43198,0 -89.13779,14.68472,0 -89.15038,15.07348,0 -88.21474000000001,15.72444,0 -87.70778,15.92128,0 -87.47445,15.78444,0 -86.40347,15.76757,0 -85.95196000000001,15.91708,0 -86.0116,16.02163,0 -85.49612,15.88903,0 -84.99696,15.99128,0 -84.59917,15.77555,0 -84.26015,15.82597,0 -83.85556,15.46,0 -84.20952,15.54566,0 -84.07446,15.34916,0 -83.83105,15.27128,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>HO</FIPS_CNTRY>
+			<GMI_CNTRY>HND</GMI_CNTRY>
+			<ISO_2DIGIT>HN</ISO_2DIGIT>
+			<ISO_3DIGIT>HND</ISO_3DIGIT>
+			<CNTRY_NAME>Honduras</CNTRY_NAME>
+			<LONG_NAME>Honduras</LONG_NAME>
+			<SOVEREIGN>Honduras</SOVEREIGN>
+			<POP_CNTRY>5367067</POP_CNTRY>
+			<CURR_TYPE>Lempira</CURR_TYPE>
+			<CURR_CODE>HNL</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>113029.05</SQKM>
+			<SQMI>43640.54</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>
