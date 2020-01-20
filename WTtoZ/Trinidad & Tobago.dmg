@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Trinidad &amp; Tobago</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Trinidad & Tobago'>Search Google</a> <BR><a href='http://maps.google.com/?ll=10.4331987054369,-61.2915082489842&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-61.07944,10.82417,0 -60.90924,10.82701,0 -61.03417,10.67819,0 -61.00445000000001,10.14958,0 -61.90952,10.04035,0 -61.45375,10.29416,0 -61.47362,10.59778,0 -61.66202,10.7084,0 -61.07944,10.82417,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>TD</FIPS_CNTRY>
+			<GMI_CNTRY>TTO</GMI_CNTRY>
+			<ISO_2DIGIT>TT</ISO_2DIGIT>
+			<ISO_3DIGIT>TTO</ISO_3DIGIT>
+			<CNTRY_NAME>Trinidad &amp; Tobago</CNTRY_NAME>
+			<LONG_NAME>Trinidad and Tobago</LONG_NAME>
+			<SOVEREIGN>Trinidad &amp; Tobago</SOVEREIGN>
+			<POP_CNTRY>1292000</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>TTD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>4421.14</SQKM>
+			<SQMI>1707</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

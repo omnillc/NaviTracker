@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Wake I.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Wake I.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=19.3020527277289,166.635627905455&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							166.6091,19.30704,0 166.6277,19.32455,0 166.6624,19.29766,0 166.6429,19.27936,0 166.6091,19.30704,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>WQ</FIPS_CNTRY>
+			<GMI_CNTRY>UMI</GMI_CNTRY>
+			<ISO_2DIGIT>UM</ISO_2DIGIT>
+			<CNTRY_NAME>Wake I.</CNTRY_NAME>
+			<LONG_NAME>Wake Island</LONG_NAME>
+			<SOVEREIGN>United States</SOVEREIGN>
+			<POP_CNTRY>4000</POP_CNTRY>
+			<CURR_TYPE>US Dollar</CURR_TYPE>
+			<CURR_CODE>USD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>13.22</SQKM>
+			<SQMI>5.1</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>The Bahamas</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=The Bahamas'>Search Google</a> <BR><a href='http://maps.google.com/?ll=24.3744364171831,-76.8020748414342&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-76.80207484143421,24.37443641718311,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.95029,26.89778,0 -77.54667999999999,26.89666,0 -77.04958999999999,26.51903,0 -77.20264,25.8825,0 -77.39806,26.02639,0 -77.22084,26.14528,0 -77.15416999999999,26.55458,0 -77.54279,26.86555,0 -77.95029,26.89778,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-78.70862,26.48972,0 -78.9789,26.69527,0 -78.70112,26.58444,0 -78.51889000000001,26.73417,0 -77.91724000000001,26.74528000000001,0 -78.70862,26.48972,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-76.73529000000001,25.55917,0 -76.12029,25.13319,0 -76.16833,24.69000000000001,0 -76.33687999999999,24.81771000000001,0 -76.16334999999999,25.12778,0 -76.73529000000001,25.55917,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-78.205,25.20194,0 -77.98772,25.15021000000001,0 -77.72168000000001,24.52889,0 -78.01966000000002,24.27465,0 -78.44015,24.61666,0 -78.19327000000001,24.60542,0 -78.30585000000001,24.72111,0 -78.205,25.20194,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-75.46250999999999,24.1225,0 -75.73557,24.69653,0 -75.31473,24.21389,0 -75.46250999999999,24.1225,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.70113000000001,24.28472,0 -77.74167,24.03028,0 -77.63209000000002,24.21111,0 -77.54680999999999,24.11666,0 -77.59132,23.8382,0 -77.73029,23.78694,0 -77.87667999999999,24.07306,0 -77.70113000000001,24.28472,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-75.30750999999999,23.66777,0 -74.83792,22.85750000000001,0 -75.16862,23.14283,0 -75.30750999999999,23.66777,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-74.2764,22.17056,0 -73.95659000000001,22.46257,0 -73.86778000000001,22.51222,0 -74.03653,22.62028,0 -73.85153,22.72833,0 -73.86751,22.46944,0 -74.2764,22.17056,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-73.66278,20.91528,0 -73.53063,21.18576,0 -73.25848000000001,21.135,0 -73.00751,21.32375,0 -73.14973000000001,20.97389,0 -73.66278,20.91528,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>BF</FIPS_CNTRY>
+			<GMI_CNTRY>BHS</GMI_CNTRY>
+			<ISO_2DIGIT>BS</ISO_2DIGIT>
+			<ISO_3DIGIT>BHS</ISO_3DIGIT>
+			<CNTRY_NAME>The Bahamas</CNTRY_NAME>
+			<LONG_NAME>Bahamas, The</LONG_NAME>
+			<SOVEREIGN>The Bahamas</SOVEREIGN>
+			<POP_CNTRY>272209</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>BSD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>10714.22</SQKM>
+			<SQMI>4136.76</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>United Arab Emirates</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=United Arab Emirates'>Search Google</a> <BR><a href='http://maps.google.com/?ll=23.9245059417057,54.3454115938083&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_7</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78e8beff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							55.19917000000001,22.69972,0 52.58333,22.93889,0 51.58423000000001,24.26047000000001,0 51.72583,24.26111,0 51.81598,23.99798,0 52.08597,23.95597,0 52.62625,24.1968,0 53.58777,24.04417,0 54.12374,24.14166,0 54.4275,24.28569,0 54.65028,24.74694,0 55.85944,25.72042,0 56.07994000000001,26.06556,0 56.26972000000001,25.63601,0 56.37353,24.97938,0 56.14374999999999,24.74111,0 56.00013000000001,24.97708,0 55.81403,24.88583,0 55.77895,24.24364,0 56.02367,24.08319,0 55.51028,23.97277,0 55.19917000000001,22.69972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>AE</FIPS_CNTRY>
+			<GMI_CNTRY>ARE</GMI_CNTRY>
+			<ISO_2DIGIT>AE</ISO_2DIGIT>
+			<ISO_3DIGIT>ARE</ISO_3DIGIT>
+			<CNTRY_NAME>United Arab Emirates</CNTRY_NAME>
+			<LONG_NAME>United Arab Emirates</LONG_NAME>
+			<SOVEREIGN>United Arab Emirates</SOVEREIGN>
+			<POP_CNTRY>2061800</POP_CNTRY>
+			<CURR_TYPE>Dirham</CURR_TYPE>
+			<CURR_CODE>AED</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>68171.94</SQKM>
+			<SQMI>26321.19</SQMI>
+			<COLOR_MAP>8</COLOR_MAP>
+</Placemark></Folder></Document></kml>

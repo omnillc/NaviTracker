@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Yemen</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Yemen'>Search Google</a> <BR><a href='http://maps.google.com/?ll=15.9043273414127,47.5957467968637&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>47.5957467968637,15.9043273414127,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								54.22083,12.65055,0 54.47347,12.54875,0 54.12402000000001,12.34819,0 53.63611,12.32889,0 53.33083000000001,12.54597,0 53.49972,12.71722,0 54.22083,12.65055,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								42.78968,16.3775,0 43.20611000000001,16.67222,0 43.12354,16.92514,0 43.31388,17.45972,0 43.51361,17.52194,0 43.93916,17.30646,0 44.36611,17.43333,0 45.40000000000001,17.33333,0 46.1,17.25,0 46.75000000000001,17.28333,0 47,16.95,0 47.46667,17.11667,0 47.60000000000001,17.45,0 48.18333,18.16667,0 49.11666000000001,18.61667,0 50.78333,18.78889,0 51.99929,18.99934,0 53.11444,16.64278,0 52.29430000000001,16.26653,0 52.18916,15.60528,0 49.0943,14.5168,0 48.69805000000001,14.04,0 47.99014,14.04708,0 47.39444,13.64639,0 46.69152,13.42805,0 45.65902,13.33917,0 44.90222,12.73153,0 44.59041000000001,12.81708,0 43.94986,12.59465,0 43.46194,12.68736,0 43.24972,13.20569,0 43.27944,13.72028,0 43.08666,13.99333,0 42.93583,14.95778,0 42.68111,15.20833,0 42.81034,15.26201,0 42.69389000000001,15.70028,0 42.83458000000001,15.88333,0 42.78968,16.3775,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>YM</FIPS_CNTRY>
+			<GMI_CNTRY>YEM</GMI_CNTRY>
+			<ISO_2DIGIT>YE</ISO_2DIGIT>
+			<ISO_3DIGIT>YEM</ISO_3DIGIT>
+			<CNTRY_NAME>Yemen</CNTRY_NAME>
+			<LONG_NAME>Yemen</LONG_NAME>
+			<SOVEREIGN>Yemen</SOVEREIGN>
+			<POP_CNTRY>15351120</POP_CNTRY>
+			<CURR_TYPE>Riyal</CURR_TYPE>
+			<CURR_CODE>YER</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>455125.97</SQKM>
+			<SQMI>175724.16</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

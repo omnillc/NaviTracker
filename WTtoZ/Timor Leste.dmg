@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Timor Leste</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Timor Leste'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-8.83193056273447,125.883738225967&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>125.883738225967,-8.83193056273447,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								124.9519,-8.950127,0 125.2294,-8.609722,0 127.005,-8.324444,0 127.3084,-8.409644,0 126.4746,-8.951110999999999,0 125.1294,-9.435287000000001,0 124.9663,-9.221311,0 125.1597,-9.068103000000001,0 124.9519,-8.950127,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								124.0461,-9.34,0 124.4628,-9.184409,0 124.3404,-9.46166,0 124.0461,-9.34,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>TT</FIPS_CNTRY>
+			<GMI_CNTRY>TLS</GMI_CNTRY>
+			<ISO_2DIGIT>TL</ISO_2DIGIT>
+			<ISO_3DIGIT>TLS</ISO_3DIGIT>
+			<CNTRY_NAME>Timor Leste</CNTRY_NAME>
+			<LONG_NAME>Timor Leste</LONG_NAME>
+			<SOVEREIGN>Timor Leste</SOVEREIGN>
+			<POP_CNTRY>857000</POP_CNTRY>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>15495.72</SQKM>
+			<SQMI>5982.9</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

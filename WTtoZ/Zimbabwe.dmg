@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Zimbabwe</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Zimbabwe'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-19.0193835546097,29.8731855226646&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							30.41576,-15.63187,0 30.42236,-16.00556,0 31.27666,-16.01861,0 31.91118,-16.41271,0 32.98114,-16.70905,0 32.865,-16.91861,0 33.04203,-17.35648,0 32.94611,-17.975,0 33.07159,-18.34972,0 32.69944,-18.94792,0 32.88486,-19.10528,0 32.78541,-19.46708,0 33.05944,-19.78028,0 33.01888,-19.94334,0 32.66583,-20.55722,0 32.50222,-20.59861,0 32.36055,-21.13556,0 32.48888,-21.34445,0 31.2975,-22.41476,0 29.37362,-22.19241,0 29.07583,-22.03945,0 29.07252,-21.80941,0 28.01583000000001,-21.56611,0 27.68673,-21.07118,0 27.71558,-20.51022,0 27.28745,-20.49496,0 27.21361,-20.08736,0 26.16937,-19.52986,0 25.26443,-17.80225,0 26.69858,-18.07492,0 27.0294,-17.96127,0 27.82528,-16.95917,0 28.75264,-16.5559,0 28.92771,-15.97236,0 29.57847,-15.6609,0 30.41576,-15.63187,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>ZI</FIPS_CNTRY>
+			<GMI_CNTRY>ZWE</GMI_CNTRY>
+			<ISO_2DIGIT>ZW</ISO_2DIGIT>
+			<ISO_3DIGIT>ZWE</ISO_3DIGIT>
+			<CNTRY_NAME>Zimbabwe</CNTRY_NAME>
+			<LONG_NAME>Zimbabwe</LONG_NAME>
+			<SOVEREIGN>Zimbabwe</SOVEREIGN>
+			<POP_CNTRY>11106690</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>ZWD</CURR_CODE>
+			<LANDLOCKED>Y</LANDLOCKED>
+			<SQKM>391456.09</SQKM>
+			<SQMI>151141.2</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

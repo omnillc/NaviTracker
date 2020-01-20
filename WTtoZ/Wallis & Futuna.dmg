@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Wallis &amp; Futuna</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Wallis & Futuna'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-14.2837315307732,-178.125503961756&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-178.1815,-14.23302,0 -178.1266,-14.24891,0 -178.061,-14.32375,0 -178.1377,-14.31709,0 -178.1815,-14.23302,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>WF</FIPS_CNTRY>
+			<GMI_CNTRY>WLF</GMI_CNTRY>
+			<ISO_2DIGIT>WF</ISO_2DIGIT>
+			<ISO_3DIGIT>WLF</ISO_3DIGIT>
+			<CNTRY_NAME>Wallis &amp; Futuna</CNTRY_NAME>
+			<LONG_NAME>Wallis and Futuna</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>14000</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>55.2</SQKM>
+			<SQMI>21.31</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>
