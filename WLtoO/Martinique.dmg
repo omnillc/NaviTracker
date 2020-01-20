@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Martinique</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Martinique'>Search Google</a> <BR><a href='http://maps.google.com/?ll=14.6297640835451,-61.0069396108833&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-60.86084,14.40278,0 -61.03389,14.46583,0 -61.17472999999999,14.87694,0 -60.94083,14.74083,0 -60.86084,14.40278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>MB</FIPS_CNTRY>
+			<GMI_CNTRY>MTQ</GMI_CNTRY>
+			<ISO_2DIGIT>MQ</ISO_2DIGIT>
+			<ISO_3DIGIT>MTQ</ISO_3DIGIT>
+			<CNTRY_NAME>Martinique</CNTRY_NAME>
+			<LONG_NAME>Martinique</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>374574</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>780.33</SQKM>
+			<SQMI>301.28</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

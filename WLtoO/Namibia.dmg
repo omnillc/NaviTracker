@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Namibia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Namibia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-22.138681674681,17.2185760524873&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_2</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffbee8</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.00094,-24.76541,0 19.99695,-28.41559,0 19.56746,-28.52833,0 19.14583,-28.955,0 18.18132,-28.90847,0 17.4009,-28.7084,0 17.39805,-28.34222,0 17.07576,-28.03035,0 16.48959,-28.57818,0 15.75639,-28.03417,0 15.29417,-27.32250000000001,0 14.83778,-25.76195,0 14.85667,-25.05889000000001,0 14.46264,-24.10334,0 14.51139,-22.55278,0 13.40389,-20.86236,0 12.46083,-18.92806,0 11.80722,-18.08625,0 11.75278,-17.25483,0 12.08778,-17.13653,0 12.55722,-17.24334,0 13.14917,-16.95417,0 13.47208,-17.01084,0 13.99322,-17.42395,0 18.45154,-17.38984,0 18.91944,-17.81639,0 20.32132,-17.85722,0 20.85416,-18.01639,0 23.47611,-17.62584,0 24.66389,-17.49361,0 25.26443,-17.80225,0 24.83278,-17.83771,0 24.56632000000002,-18.05424,0 24.36305,-17.94917,0 23.61326,-18.48516,0 23.29711,-17.99595,0 20.99329,-18.31842,0 20.99194,-21.99695,0 19.99667,-22.005,0 20.00094,-24.76541,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>WA</FIPS_CNTRY>
+			<GMI_CNTRY>NAM</GMI_CNTRY>
+			<ISO_2DIGIT>NA</ISO_2DIGIT>
+			<ISO_3DIGIT>NAM</ISO_3DIGIT>
+			<CNTRY_NAME>Namibia</CNTRY_NAME>
+			<LONG_NAME>Namibia</LONG_NAME>
+			<SOVEREIGN>Namibia</SOVEREIGN>
+			<POP_CNTRY>1575611</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>NAD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>827896.88</SQKM>
+			<SQMI>319651</SQMI>
+			<COLOR_MAP>3</COLOR_MAP>
+</Placemark></Folder></Document></kml>

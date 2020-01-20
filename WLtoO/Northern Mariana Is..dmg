@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Northern Mariana Is.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Northern Mariana Is.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=15.1780118942261,145.740615844727&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							145.7924,15.26807,0 145.7337,15.08689,0 145.6957,15.17908,0 145.7924,15.26807,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>CQ</FIPS_CNTRY>
+			<GMI_CNTRY>MNP</GMI_CNTRY>
+			<ISO_2DIGIT>MP</ISO_2DIGIT>
+			<ISO_3DIGIT>MNP</ISO_3DIGIT>
+			<CNTRY_NAME>Northern Mariana Is.</CNTRY_NAME>
+			<LONG_NAME>Northern Mariana Islands</LONG_NAME>
+			<SOVEREIGN>United States</SOVEREIGN>
+			<POP_CNTRY>60963</POP_CNTRY>
+			<CURR_TYPE>US Dollar</CURR_TYPE>
+			<CURR_CODE>USD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>73.45999999999999</SQKM>
+			<SQMI>28.36</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

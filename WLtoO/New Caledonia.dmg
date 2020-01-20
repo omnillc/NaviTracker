@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>New Caledonia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=New Caledonia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-21.3117212351632,165.657735330994&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>165.657735330994,-21.3117212351632,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								165.443,-21.09917,0 166.9509,-22.09361000000001,0 166.9986,-22.34111,0 166.4519,-22.31667,0 166.1164,-21.94639,0 165.26,-21.55806,0 164.3851,-20.77181,0 163.9827,-20.11056,0 165.2233,-20.76528,0 165.443,-21.09917,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								167.3627,-21.18333,0 167.065,-20.99722,0 167.19,-20.81042,0 167.0514,-20.72014,0 167.3062,-20.72222,0 167.2775,-20.89958,0 167.4636,-21.05736,0 167.3627,-21.18333,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								167.9947,-21.66083,0 167.8097,-21.38389,0 168.0952,-21.45555,0 168.1305,-21.61611,0 167.9947,-21.66083,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>NC</FIPS_CNTRY>
+			<GMI_CNTRY>NCL</GMI_CNTRY>
+			<ISO_2DIGIT>NC</ISO_2DIGIT>
+			<ISO_3DIGIT>NCL</ISO_3DIGIT>
+			<CNTRY_NAME>New Caledonia</CNTRY_NAME>
+			<LONG_NAME>New Caledonia</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>178000</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>17946.31</SQKM>
+			<SQMI>6929.07</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

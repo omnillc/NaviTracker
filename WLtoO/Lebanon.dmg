@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Lebanon</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Lebanon'>Search Google</a> <BR><a href='http://maps.google.com/?ll=33.9142452959766,35.8563589923941&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.10083000000001,33.09361,0 35.64888,34.28111,0 35.97277,34.64750000000001,0 36.4593,34.63041,0 36.35123,34.50075,0 36.62374,34.20499,0 36.28347,33.9109,0 36.37395,33.83111,0 36.07104,33.82753,0 35.9402,33.64416,0 36.03444,33.55333,0 35.7833,33.36528,0 35.62363,33.24573,0 35.42555,33.06833,0 35.10083000000001,33.09361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>LE</FIPS_CNTRY>
+			<GMI_CNTRY>LBN</GMI_CNTRY>
+			<ISO_2DIGIT>LB</ISO_2DIGIT>
+			<ISO_3DIGIT>LBN</ISO_3DIGIT>
+			<CNTRY_NAME>Lebanon</CNTRY_NAME>
+			<LONG_NAME>Lebanon</LONG_NAME>
+			<SOVEREIGN>Lebanon</SOVEREIGN>
+			<POP_CNTRY>2942959</POP_CNTRY>
+			<CURR_TYPE>Pound</CURR_TYPE>
+			<CURR_CODE>LBP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>10807.67</SQKM>
+			<SQMI>4172.84</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

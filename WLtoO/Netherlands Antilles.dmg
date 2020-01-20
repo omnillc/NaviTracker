@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Netherlands Antilles</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Netherlands Antilles'>Search Google</a> <BR><a href='http://maps.google.com/?ll=12.2026856554094,-68.9788743531156&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-69.14688,12.38278,0 -68.88039000000001,12.18334,0 -68.74627,12.03964,0 -68.97009,12.11715,0 -69.15819999999999,12.31224,0 -69.14688,12.38278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>NT</FIPS_CNTRY>
+			<GMI_CNTRY>ANT</GMI_CNTRY>
+			<ISO_2DIGIT>AN</ISO_2DIGIT>
+			<ISO_3DIGIT>ANT</ISO_3DIGIT>
+			<CNTRY_NAME>Netherlands Antilles</CNTRY_NAME>
+			<LONG_NAME>Netherlands Antilles</LONG_NAME>
+			<SOVEREIGN>Netherlands</SOVEREIGN>
+			<POP_CNTRY>191572</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>439.73</SQKM>
+			<SQMI>169.78</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

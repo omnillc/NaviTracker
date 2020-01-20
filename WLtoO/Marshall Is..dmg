@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Marshall Is.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Marshall Is.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=7.30844167487542,168.724214562899&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							168.6723,7.330155000000001,0 168.7677,7.298892000000001,0 168.7865,7.289473,0 168.7675,7.289673,0 168.6715,7.320736,0 168.6723,7.330155000000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>RM</FIPS_CNTRY>
+			<GMI_CNTRY>MHL</GMI_CNTRY>
+			<ISO_2DIGIT>MH</ISO_2DIGIT>
+			<ISO_3DIGIT>MHL</ISO_3DIGIT>
+			<CNTRY_NAME>Marshall Is.</CNTRY_NAME>
+			<LONG_NAME>Marshall Islands</LONG_NAME>
+			<SOVEREIGN>Marshall Is.</SOVEREIGN>
+			<POP_CNTRY>53363</POP_CNTRY>
+			<CURR_TYPE>US Dollar</CURR_TYPE>
+			<CURR_CODE>USD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>12.2</SQKM>
+			<SQMI>4.71</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

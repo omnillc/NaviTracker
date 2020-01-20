@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Liberia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Liberia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=6.44204506945533,-9.31068254536958&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.469749000000002,7.561325,0 -8.30889,6.858055000000001,0 -8.606384,6.507815,0 -7.897779,6.261944000000001,0 -7.757639,5.946666000000001,0 -7.425695000000001,5.845555,0 -7.525402000000001,4.352806,0 -9.142778,5.055555,0 -11.49233,6.927091000000001,0 -10.60778,7.772499,0 -10.60264,8.032914999999999,0 -10.29757,8.199026,0 -10.26665,8.488377,0 -9.669862,8.490694,0 -9.483650000000001,8.346931,0 -9.353859,7.742367,0 -9.485161,7.361989,0 -9.324446,7.426805,0 -9.109968,7.193927000000001,0 -8.844445,7.271736,0 -8.660557000000001,7.695,0 -8.469749000000002,7.561325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>LI</FIPS_CNTRY>
+			<GMI_CNTRY>LBR</GMI_CNTRY>
+			<ISO_2DIGIT>LR</ISO_2DIGIT>
+			<ISO_3DIGIT>LBR</ISO_3DIGIT>
+			<CNTRY_NAME>Liberia</CNTRY_NAME>
+			<LONG_NAME>Liberia</LONG_NAME>
+			<SOVEREIGN>Liberia</SOVEREIGN>
+			<POP_CNTRY>2902441</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>LRD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>95658.84</SQKM>
+			<SQMI>36933.88</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

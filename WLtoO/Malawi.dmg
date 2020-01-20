@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Malawi</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Malawi'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-13.1971026354071,34.2883344152683&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>34.2883344152683,-13.1971026354071,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								33.22223,-14.01257,0 32.68187,-13.61285,0 32.97749,-13.22917,0 33.04639,-12.60389,0 33.5418,-12.36417,0 33.27139,-12.12993,0 33.24951,-11.41104,0 33.41041,-11.16319,0 33.25041,-10.89208,0 33.70228,-10.56186,0 33.32597,-10.06403,0 33.22916,-9.634167,0 33.00013,-9.621848,0 32.9404,-9.405077,0 33.91882,-9.706735999999999,0 34.04153000000001,-9.483751,0 34.32965,-9.740209,0 34.53486,-10.04597,0 34.61604,-11.11076,0 34.96673,-11.57211,0 34.62486,-11.57938,0 34.37527,-12.15583,0 34.56569,-13.33958,0 35.09528,-13.68611,0 35.92097,-14.89389,0 35.81597,-16.01361,0 35.41166,-16.12625,0 35.13862,-16.54974,0 35.29005,-17.13427,0 35.08777,-17.12708,0 35.14513,-16.83611,0 34.45069,-16.2807,0 34.25444,-15.88889,0 34.58972,-15.28278,0 34.52222,-14.57167,0 34.36375,-14.38597,0 33.63333,-14.53972,0 33.22223,-14.01257,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								34.61797,-12.03873,0 34.61744,-12.00886,0 34.62811,-12.03073,0 34.61797,-12.03873,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								34.72039,-12.03926,0 34.75186,-12.03926,0 34.71612,-12.09207,0 34.72039,-12.03926,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>MI</FIPS_CNTRY>
+			<GMI_CNTRY>MWI</GMI_CNTRY>
+			<ISO_2DIGIT>MW</ISO_2DIGIT>
+			<ISO_3DIGIT>MWI</ISO_3DIGIT>
+			<CNTRY_NAME>Malawi</CNTRY_NAME>
+			<LONG_NAME>Malawi</LONG_NAME>
+			<SOVEREIGN>Malawi</SOVEREIGN>
+			<POP_CNTRY>10660480</POP_CNTRY>
+			<CURR_TYPE>Kwacha</CURR_TYPE>
+			<CURR_CODE>MWK</CURR_CODE>
+			<LANDLOCKED>Y</LANDLOCKED>
+			<SQKM>117440.33</SQKM>
+			<SQMI>45343.7</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

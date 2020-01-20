@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Montserrat</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Montserrat'>Search Google</a> <BR><a href='http://maps.google.com/?ll=16.7291929501068,-62.1910105204142&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-62.20436000000001,16.81155,0 -62.13861000000001,16.69042,0 -62.17149000000001,16.67113,0 -62.23687000000001,16.71472,0 -62.20436000000001,16.81155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>MH</FIPS_CNTRY>
+			<GMI_CNTRY>MSR</GMI_CNTRY>
+			<ISO_2DIGIT>MS</ISO_2DIGIT>
+			<ISO_3DIGIT>MSR</ISO_3DIGIT>
+			<CNTRY_NAME>Montserrat</CNTRY_NAME>
+			<LONG_NAME>Montserrat</LONG_NAME>
+			<SOVEREIGN>United Kingdom</SOVEREIGN>
+			<POP_CNTRY>12771</POP_CNTRY>
+			<CURR_TYPE>EC Dollar</CURR_TYPE>
+			<CURR_CODE>XCD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>76.95</SQKM>
+			<SQMI>29.71</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

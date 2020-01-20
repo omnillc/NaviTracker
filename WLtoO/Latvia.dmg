@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Latvia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Latvia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=56.8549195454944,24.923962337378&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_2</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffbee8</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.05169,56.07731,0 21.06229,56.84193000000001,0 21.39569,57.02666,0 21.41729000000001,57.28193000000001,0 21.72902,57.57472,0 22.6069,57.74906000000001,0 22.64333,57.58527,0 23.13569,57.36444000000001,0 23.25611,57.10096000000001,0 23.78583,56.97027,0 24.40416,57.25124000000001,0 24.31498,57.87183000000001,0 25.29784,58.08326000000001,0 26.51139,57.52610000000001,0 26.90222,57.63346,0 27.37206,57.53564,0 27.85534000000001,57.30597,0 27.70166,56.91471000000001,0 27.93881,56.82243,0 28.23597,56.27638000000001,0 28.16801,56.15015,0 27.60024,55.79252,0 26.98583,55.83236,0 26.61321,55.67484,0 25.58278,56.15138000000001,0 25.10152,56.19916000000001,0 24.89416,56.44985,0 24.1693,56.26222000000001,0 22.06722,56.41944,0 21.05169,56.07731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>LG</FIPS_CNTRY>
+			<GMI_CNTRY>LVA</GMI_CNTRY>
+			<ISO_2DIGIT>LV</ISO_2DIGIT>
+			<ISO_3DIGIT>LVA</ISO_3DIGIT>
+			<CNTRY_NAME>Latvia</CNTRY_NAME>
+			<LONG_NAME>Latvia</LONG_NAME>
+			<SOVEREIGN>Latvia</SOVEREIGN>
+			<POP_CNTRY>2690291</POP_CNTRY>
+			<CURR_TYPE>Lat</CURR_TYPE>
+			<CURR_CODE>LVL</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>64744.68</SQKM>
+			<SQMI>24997.92</SQMI>
+			<COLOR_MAP>3</COLOR_MAP>
+</Placemark></Folder></Document></kml>

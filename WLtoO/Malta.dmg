@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Malta</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Malta'>Search Google</a> <BR><a href='http://maps.google.com/?ll=35.8897592195209,14.4441533733808&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							14.3649,35.99181,0 14.56971,35.86921,0 14.52009,35.8011,0 14.33717,35.88283,0 14.3649,35.99181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>MT</FIPS_CNTRY>
+			<GMI_CNTRY>MLT</GMI_CNTRY>
+			<ISO_2DIGIT>MT</ISO_2DIGIT>
+			<ISO_3DIGIT>MLT</ISO_3DIGIT>
+			<CNTRY_NAME>Malta</CNTRY_NAME>
+			<LONG_NAME>Malta</LONG_NAME>
+			<SOVEREIGN>Malta</SOVEREIGN>
+			<POP_CNTRY>366410</POP_CNTRY>
+			<CURR_TYPE>Lira</CURR_TYPE>
+			<CURR_CODE>MTL</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>211.5</SQKM>
+			<SQMI>81.66</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>
