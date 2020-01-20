@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Slovenia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Slovenia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=46.1480425246952,14.850270469505&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_1</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							13.59174,45.4817,0 13.71694,45.59611,0 13.91833,45.63639000000001,0 13.47972,46.01222,0 13.66604,46.17531,0 13.38347,46.29514,0 13.71865,46.52661,0 14.545,46.40749,0 14.8675,46.61333000000001,0 16.1118,46.86972000000001,0 16.34903,46.84236,0 16.60787,46.47623,0 16.29251,46.53082000000001,0 15.65917,46.22090000000001,0 15.69611,45.84305,0 15.31583,45.75666,0 15.17446,45.42582000000001,0 14.82609,45.46545,0 14.60979,45.66843000000001,0 14.3925,45.48611,0 13.59174,45.4817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>SI</FIPS_CNTRY>
+			<GMI_CNTRY>SVN</GMI_CNTRY>
+			<ISO_2DIGIT>SI</ISO_2DIGIT>
+			<ISO_3DIGIT>SVN</ISO_3DIGIT>
+			<CNTRY_NAME>Slovenia</CNTRY_NAME>
+			<LONG_NAME>Slovenia</LONG_NAME>
+			<SOVEREIGN>Slovenia</SOVEREIGN>
+			<POP_CNTRY>1951443</POP_CNTRY>
+			<CURR_TYPE>Tolar</CURR_TYPE>
+			<CURR_CODE>SLT</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>20625.4</SQKM>
+			<SQMI>7963.47</SQMI>
+			<COLOR_MAP>2</COLOR_MAP>
+</Placemark></Folder></Document></kml>

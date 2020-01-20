@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>St. Vincent &amp; the Grenadines</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=St. Vincent & the Grenadines'>Search Google</a> <BR><a href='http://maps.google.com/?ll=13.2531345835294,-61.1941841371952&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_5</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-61.18034000000001,13.38238,0 -61.12265000000001,13.24391,0 -61.18419,13.12917,0 -61.27778,13.25033,0 -61.18034000000001,13.38238,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>VC</FIPS_CNTRY>
+			<GMI_CNTRY>VCT</GMI_CNTRY>
+			<ISO_2DIGIT>VC</ISO_2DIGIT>
+			<ISO_3DIGIT>VCT</ISO_3DIGIT>
+			<CNTRY_NAME>St. Vincent &amp; the Grenadines</CNTRY_NAME>
+			<LONG_NAME>St. Vincent and the Grenadines</LONG_NAME>
+			<SOVEREIGN>St. Vincent &amp; the Grenadines</SOVEREIGN>
+			<POP_CNTRY>110459</POP_CNTRY>
+			<CURR_TYPE>EC Dollar</CURR_TYPE>
+			<CURR_CODE>XCD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>236.51</SQKM>
+			<SQMI>91.31999999999999</SQMI>
+			<COLOR_MAP>6</COLOR_MAP>
+</Placemark></Folder></Document></kml>

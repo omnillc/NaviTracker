@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>South Korea</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=South Korea'>Search Google</a> <BR><a href='http://maps.google.com/?ll=36.402550727742,127.856557537435&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>127.856557537435,36.402550727742,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								126.6885,37.83391,0 127.101,38.28416,0 128.08,38.31194,0 128.3636,38.62524,0 129.4294,37.05986,0 129.392,36.02282,0 129.5869,36.00386,0 129.4394,35.47582,0 129.1369,35.11221,0 128.5728,35.16999,0 128.3821,35.03917,0 128.5014,35.00833,0 128.406,34.83277,0 128.335,34.94652,0 127.5971,34.94013000000001,0 127.7458,34.7254,0 127.6379,34.61597,0 127.4183,34.8186,0 127.5128,34.59082,0 127.3894,34.4711,0 127.1262,34.55138,0 127.3351,34.74013,0 126.8894,34.41249,0 126.7807,34.58541,0 126.5972,34.29985,0 126.4783,34.34527,0 126.2921,34.74576,0 126.4517,34.57805,0 126.6603,34.81013000000001,0 126.3756,34.79138,0 126.4336,34.96361,0 126.2487,35.11347,0 126.4572,35.06889,0 126.3875,35.33694,0 126.6844,35.53339,0 126.4771,35.63791,0 126.8011,35.86166,0 126.6327,35.96568,0 126.872,36.05625,0 126.5444,36.13641,0 126.4972,36.72388,0 126.2931,36.58194,0 126.1258,36.70721,0 126.2948,36.96207,0 126.287,36.79305,0 126.4011,36.85194,0 126.3451,36.99138,0 126.4748,36.84319,0 126.5008,37.05125,0 126.7721,36.96749,0 126.833,36.7609,0 126.9922,36.91082000000001,0 126.7548,37.04791000000001,0 126.8694,37.17430000000001,0 126.661,37.15902000000001,0 126.8618,37.26555,0 126.5493,37.64506,0 126.6885,37.83391,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								126.4472,37.7956,0 126.5139,37.59721,0 126.373,37.62318,0 126.439,37.79429,0 126.4436,37.80634,0 126.4472,37.7956,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								128.7282,34.94305,0 128.5882,34.70124,0 128.4944,34.88027000000001,0 128.7282,34.94305,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								127.9377,34.90192,0 128.0591,34.70061,0 127.8589,34.72179,0 127.8242,34.85868,0 127.9377,34.90192,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								126.3811,34.49165,0 126.1016,34.39666,0 126.2411,34.57166000000001,0 126.3811,34.49165,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								126.8397,33.53637,0 126.8453,33.30999,0 126.1578,33.27888,0 126.315,33.45152,0 126.8397,33.53637,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>KS</FIPS_CNTRY>
+			<GMI_CNTRY>KOR</GMI_CNTRY>
+			<ISO_2DIGIT>KR</ISO_2DIGIT>
+			<ISO_3DIGIT>KOR</ISO_3DIGIT>
+			<CNTRY_NAME>South Korea</CNTRY_NAME>
+			<LONG_NAME>Korea, Republic of</LONG_NAME>
+			<SOVEREIGN>South Korea</SOVEREIGN>
+			<POP_CNTRY>43410900</POP_CNTRY>
+			<CURR_TYPE>Won</CURR_TYPE>
+			<CURR_CODE>KRW</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>94773.46000000001</SQKM>
+			<SQMI>36592.03</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

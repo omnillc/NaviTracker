@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Senegal</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Senegal'>Search Google</a> <BR><a href='http://maps.google.com/?ll=14.3683395311168,-14.4630793656117&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_7</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78e8beff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-16.45692,12.61906,0 -16.59396,12.78333,0 -16.75292,12.56472,0 -16.75087,13.05998,0 -15.80972,13.15972,0 -15.80653,13.33944,0 -15.29042,13.37278,0 -15.11167,13.59583,0 -14.35111,13.23778,0 -13.80347,13.38444,0 -13.91917,13.56819,0 -14.33486,13.45403,0 -15.07028,13.82639,0 -15.36444,13.78139,0 -15.4882,13.59083,0 -16.56567,13.59,0 -16.63861,13.75278,0 -16.49084,13.95805,0 -16.69844,13.77045,0 -16.74535,13.95347,0 -16.36743,14.16639,0 -16.77584,14.0125,0 -17.17556,14.65444,0 -17.53278,14.75014,0 -16.87938,15.22431,0 -16.54639,15.75667,0 -16.52768,16.06025,0 -16.28528,16.51708,0 -14.34361,16.63611,0 -13.81611,16.13527,0 -13.39542,16.05542,0 -12.84972,15.20805,0 -12.24483,14.76439,0 -12.2064,14.39529,0 -11.98222,14.17278,0 -12.05722,13.66472,0 -11.80951,13.30927,0 -11.63458,13.39153,0 -11.37611,12.98291,0 -11.37306,12.40777,0 -12.3454,12.30175,0 -12.89625,12.545,0 -13.0457,12.47903,0 -13.05632,12.6341,0 -13.71314,12.67722,0 -15.21806,12.68472,0 -15.68528,12.43,0 -16.71777,12.32243,0 -16.80014,12.48639,0 -16.58375,12.63264,0 -16.37462,12.54523,0 -15.63444,12.53104,0 -15.39181,12.83292,0 -15.64563,12.55708,0 -16.02138,12.72494,0 -16.341,12.60666,0 -16.42167,12.5768,0 -16.45692,12.61906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>SG</FIPS_CNTRY>
+			<GMI_CNTRY>SEN</GMI_CNTRY>
+			<ISO_2DIGIT>SN</ISO_2DIGIT>
+			<ISO_3DIGIT>SEN</ISO_3DIGIT>
+			<CNTRY_NAME>Senegal</CNTRY_NAME>
+			<LONG_NAME>Senegal</LONG_NAME>
+			<SOVEREIGN>Senegal</SOVEREIGN>
+			<POP_CNTRY>8116554</POP_CNTRY>
+			<CURR_TYPE>CFA Franc</CURR_TYPE>
+			<CURR_CODE>XOF</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>197395.88</SQKM>
+			<SQMI>76214.55</SQMI>
+			<COLOR_MAP>8</COLOR_MAP>
+</Placemark></Folder></Document></kml>

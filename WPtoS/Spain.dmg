@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Spain</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Spain'>Search Google</a> <BR><a href='http://maps.google.com/?ll=40.2616016535413,-3.62638541634178&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-3.62638541634178,40.26160165354131,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-5.355799,36.16331,0 -5.613611,36.0061,0 -6.044167,36.18611,0 -6.432500000000001,36.69236000000001,0 -6.355556,36.86083,0 -6.959923000000001,37.22184,0 -7.431854,37.25319,0 -7.446945,37.69944000000001,0 -6.941528,38.17041,0 -7.317084,38.44472,0 -6.955869,39.02319,0 -7.532505000000001,39.66942000000001,0 -7.017222000000001,39.675,0 -6.870695,40.01597,0 -7.027223,40.18777,0 -6.796112000000001,40.52444,0 -6.924407,41.03096,0 -6.190451,41.57964000000001,0 -6.545625000000001,41.68701,0 -6.602292,41.94916,0 -8.136112000000001,41.80917000000001,0 -8.197834,42.15067,0 -8.745008,41.95250000000001,0 -8.87514,41.87951,0 -8.897501,42.11055,0 -8.579863,42.34902,0 -8.864860999999999,42.24965,0 -8.656113,42.42777000000001,0 -8.906113,42.47514,0 -8.720497,42.69849,0 -9.029375,42.52416,0 -8.915832999999999,42.78902000000001,0 -9.105835000000001,42.75249,0 -9.259167,43.04722,0 -8.950279,43.29361000000001,0 -8.329723,43.40388,0 -7.898056000000001,43.76416,0 -7.044819000000001,43.4904,0 -5.854167,43.64805,0 -4.514552,43.39635,0 -3.585556,43.51028,0 -3.150593,43.35356,0 -1.780877,43.35992,0 -1.385139,43.25256,0 -1.439514,43.04937000000001,0 -0.7540973,42.96437,0 -0.5558334,42.78,0 0.6755065,42.68848,0 0.7161111,42.85888,0 1.445833,42.60194,0 1.451528,42.44625,0 1.723611,42.50944,0 2.020555,42.35263000000001,0 3.177655,42.43681,0 3.317986,42.32048,0 3.118055,42.22513,0 3.175278,41.86749,0 2.117361,41.2893,0 0.9644444,41.03278,0 0.7036110000000001,40.79687,0 0.8852777000000001,40.70277,0 0.5891666,40.61278000000001,0 0.04750000000000001,40.03374,0 -0.3376389,39.43805,0 -0.1433333,38.97833,0 0.2072222,38.73221,0 -0.5116668,38.325,0 -0.8583333,37.71555,0 -0.7234723,37.60222,0 -1.3275,37.55805,0 -1.643611,37.37277,0 -2.122917,36.73347,0 -2.347084,36.84055,0 -2.768889,36.67833,0 -4.399862,36.72145,0 -4.639722,36.50833,0 -5.172639,36.41187,0 -5.334508,36.16256,0 -5.355799,36.16331,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								4.276388,39.80639,0 3.796944,40.01722,0 4.174444,40.05028,0 4.276388,39.80639,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								2.389166,39.52499,0 2.987778,39.91111,0 3.48,39.71638,0 3.060278,39.26333,0 2.694444,39.55194,0 2.389166,39.52499,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								1.371944,38.83083,0 1.211944,38.89833,0 1.294167,39.03139,0 1.602917,39.09388,0 1.371944,38.83083,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-5.395557,35.91634,0 -5.319921,35.88987,0 -5.345834000000001,35.84166,0 -5.395557,35.91634,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-2.914722,35.27361,0 -2.962991,35.28117,0 -2.946945,35.32916,0 -2.914722,35.27361,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-13.77306,28.83778,0 -13.79167,29.05249999999999,0 -13.4425,29.23167,0 -13.48347,28.99528,0 -13.77306,28.83778,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-17.78334,28.52916000000001,0 -18.00292,28.74972,0 -17.90681,28.84819,0 -17.71653,28.74333,0 -17.78334,28.52916000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-14.33278,28.04444000000001,0 -14.44417,28.06916,0 -13.86778,28.74958000000001,0 -13.92306,28.24916,0 -14.33278,28.04444000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-16.67139,27.98417,0 -16.90938,28.34604,0 -16.15695,28.57222,0 -16.67139,27.98417,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-17.23083,28.01,0 -17.255,28.20611,0 -17.08917,28.11194,0 -17.23083,28.01,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-15.57917,27.73111,0 -15.82264,27.91569000000001,0 -15.7025,28.15611,0 -15.36528,28.00722,0 -15.57917,27.73111,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>SP</FIPS_CNTRY>
+			<GMI_CNTRY>ESP</GMI_CNTRY>
+			<ISO_2DIGIT>ES</ISO_2DIGIT>
+			<ISO_3DIGIT>ESP</ISO_3DIGIT>
+			<CNTRY_NAME>Spain</CNTRY_NAME>
+			<LONG_NAME>Spain</LONG_NAME>
+			<SOVEREIGN>Spain</SOVEREIGN>
+			<POP_CNTRY>39267780</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>503250.28</SQKM>
+			<SQMI>194304.94</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

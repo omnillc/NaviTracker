@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Switzerland</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Switzerland'>Search Google</a> <BR><a href='http://maps.google.com/?ll=46.7985646316902,8.23016988220949&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							10.47124,46.87135,0 10.45753,46.54249999999999,0 10.05139,46.54152000000001,0 10.13639,46.23069,0 9.946942999999999,46.37958,0 9.544860999999999,46.30624000000001,0 9.293782999999999,46.50083000000001,0 9.036664999999999,45.83778000000001,0 8.444998999999999,46.24722000000001,0 8.441457,46.46208,0 7.855742000000001,45.91905,0 7.038054,45.93194,0 6.783472,46.15472,0 6.737778,46.44749,0 6.295555,46.39417000000001,0 6.133263,46.14978,0 5.967013,46.20729,0 6.115555000000001,46.26152,0 6.12868,46.58805,0 6.971666000000001,47.29194,0 6.990555,47.49722,0 7.385417000000001,47.43333,0 7.588268,47.58448,0 8.576420000000001,47.59137,0 8.406943,47.70180000000001,0 8.562916,47.80666,0 9.566724000000001,47.54045000000001,0 9.670344999999999,47.39069,0 9.533569,47.27454,0 9.474637,47.05746,0 9.598635,47.06384000000001,0 10.10944,46.85027000000001,0 10.39076,47.00257,0 10.47124,46.87135,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							8.70547,47.71144000000001,0 8.673114,47.703,0 8.69234,47.69409,0 8.70547,47.71144000000001,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>SZ</FIPS_CNTRY>
+			<GMI_CNTRY>CHE</GMI_CNTRY>
+			<ISO_2DIGIT>CH</ISO_2DIGIT>
+			<ISO_3DIGIT>CHE</ISO_3DIGIT>
+			<CNTRY_NAME>Switzerland</CNTRY_NAME>
+			<LONG_NAME>Switzerland</LONG_NAME>
+			<SOVEREIGN>Switzerland</SOVEREIGN>
+			<POP_CNTRY>6713839</POP_CNTRY>
+			<CURR_TYPE>Franc</CURR_TYPE>
+			<CURR_CODE>CHF</CURR_CODE>
+			<LANDLOCKED>Y</LANDLOCKED>
+			<SQKM>41853.7</SQKM>
+			<SQMI>16159.71</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>
