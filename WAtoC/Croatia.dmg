@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Croatia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Croatia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=45.0936601176978,16.4685526444002&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_2</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffbee8</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>16.4685526444002,45.0936601176978,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								14.73361,44.93999,0 14.43639,45.07,0 14.53916,45.23944,0 14.73361,44.93999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								16.68722,43.26167,0 16.40555,43.32604,0 16.77611,43.35944,0 16.88722,43.29778,0 16.68722,43.26167,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								16.86611,42.89777,0 16.68611,42.99083,0 17.18361,42.91861,0 16.86611,42.89777,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.57853,42.94382,0 16.88166,43.40361,0 15.98833,43.50444000000001,0 15.94083,43.68361,0 15.15167,44.19639,0 15.52229,44.26326,0 14.99055,44.57944,0 14.83153,45.11541,0 14.48278,45.31110000000001,0 14.32305,45.35097,0 13.90444,44.77256,0 13.60305,45.15778000000001,0 13.59174,45.4817,0 14.3925,45.48611,0 14.60979,45.66843000000001,0 14.82609,45.46545,0 15.17446,45.42582000000001,0 15.31583,45.75666,0 15.69611,45.84305,0 15.65917,46.22090000000001,0 16.29251,46.53082000000001,0 16.60787,46.47623,0 17.66097,45.83875,0 18.4075,45.74833,0 18.81702,45.91296000000001,0 18.95666,45.7825,0 18.90224,45.57314,0 19.09793000000001,45.51886,0 18.98126,45.38221999999999,0 19.425,45.21791,0 19.16736,45.21430000000001,0 19.03972,44.86138,0 18.63416,45.08333,0 17.86035,45.04937000000001,0 16.91393,45.26595,0 16.53109,45.22553000000001,0 16.29176,44.99911,0 16.02243,45.21437,0 15.78576,45.16895000000001,0 15.74059,44.81225,0 16.12986,44.49236,0 16.14548,44.19868,0 17.25472,43.46402,0 17.65444,43.04722,0 17.57853,42.94382,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.5032,42.44944,0 17.01236,43.00624,0 17.64984,42.88908000000001,0 18.45555,42.56583,0 18.5032,42.44944,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>HR</FIPS_CNTRY>
+			<GMI_CNTRY>HRV</GMI_CNTRY>
+			<ISO_2DIGIT>HR</ISO_2DIGIT>
+			<ISO_3DIGIT>HRV</ISO_3DIGIT>
+			<CNTRY_NAME>Croatia</CNTRY_NAME>
+			<LONG_NAME>Croatia</LONG_NAME>
+			<SOVEREIGN>Croatia</SOVEREIGN>
+			<POP_CNTRY>5004112</POP_CNTRY>
+			<CURR_TYPE>Kuna</CURR_TYPE>
+			<CURR_CODE>HRK</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>53541.31</SQKM>
+			<SQMI>20672.3</SQMI>
+			<COLOR_MAP>3</COLOR_MAP>
+</Placemark></Folder></Document></kml>

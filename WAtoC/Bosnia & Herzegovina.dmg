@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Bosnia &amp; Herzegovina</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Bosnia & Herzegovina'>Search Google</a> <BR><a href='http://maps.google.com/?ll=44.1729158694563,17.7673897764307&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_7</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78e8beff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							18.45555,42.56583,0 17.64984,42.88908000000001,0 17.57853,42.94382,0 17.65444,43.04722,0 17.25472,43.46402,0 16.14548,44.19868,0 16.12986,44.49236,0 15.74059,44.81225,0 15.78576,45.16895000000001,0 16.02243,45.21437,0 16.29176,44.99911,0 16.53109,45.22553000000001,0 16.91393,45.26595,0 17.86035,45.04937000000001,0 18.63416,45.08333,0 19.03972,44.86138,0 19.37139,44.88916,0 19.10444,44.35583,0 19.61856,44.05262,0 19.23945,44.01061,0 19.51055,43.68583,0 19.22881,43.51321000000001,0 18.94986,43.50603,0 19.05957,43.23595,0 18.91557,43.35777,0 18.70278,43.25715,0 18.48173,42.96618,0 18.57639,42.66306,0 18.45555,42.56583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>BK</FIPS_CNTRY>
+			<GMI_CNTRY>BIH</GMI_CNTRY>
+			<ISO_2DIGIT>BA</ISO_2DIGIT>
+			<ISO_3DIGIT>BIH</ISO_3DIGIT>
+			<CNTRY_NAME>Bosnia &amp; Herzegovina</CNTRY_NAME>
+			<LONG_NAME>Bosnia and Herzegovina</LONG_NAME>
+			<SOVEREIGN>Bosnia &amp; Herzegovina</SOVEREIGN>
+			<POP_CNTRY>2656240</POP_CNTRY>
+			<CURR_TYPE>Convertible Mark</CURR_TYPE>
+			<CURR_CODE>BAK</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>51366.25</SQKM>
+			<SQMI>19832.51</SQMI>
+			<COLOR_MAP>8</COLOR_MAP>
+</Placemark></Folder></Document></kml>

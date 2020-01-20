@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Cyprus</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Cyprus'>Search Google</a> <BR><a href='http://maps.google.com/?ll=35.0799662252762,33.2577472432324&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							32.9321,35.26363,0 34.58604,35.68861,0 33.92139,35.27277000000001,0 34.08527,34.96166,0 33.68139,34.96680000000001,0 33.36902,34.72652,0 32.71388,34.64027,0 32.40583,34.74986,0 32.27861,35.09541,0 32.9321,35.26363,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>CY</FIPS_CNTRY>
+			<GMI_CNTRY>CYP</GMI_CNTRY>
+			<ISO_2DIGIT>CY</ISO_2DIGIT>
+			<ISO_3DIGIT>CYP</ISO_3DIGIT>
+			<CNTRY_NAME>Cyprus</CNTRY_NAME>
+			<LONG_NAME>Cyprus</LONG_NAME>
+			<SOVEREIGN>Cyprus</SOVEREIGN>
+			<POP_CNTRY>739027</POP_CNTRY>
+			<CURR_TYPE>Pound</CURR_TYPE>
+			<CURR_CODE>CYP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>9894.219999999999</SQKM>
+			<SQMI>3820.16</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

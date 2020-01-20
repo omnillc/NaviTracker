@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Belize</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Belize'>Search Google</a> <BR><a href='http://maps.google.com/?ll=17.1779917790559,-88.7020543601981&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-88.29949999999999,18.48293,0 -88.07778999999999,18.21555,0 -88.2825,17.62389,0 -88.21334,16.96208,0 -88.36129,16.50177,0 -88.91057000000001,15.89361,0 -89.21617000000001,15.88985,0 -89.14194999999999,17.81889,0 -89.07205,17.99498,0 -88.84139999999999,17.90389,0 -88.47378999999999,18.48371,0 -88.29949999999999,18.48293,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>BH</FIPS_CNTRY>
+			<GMI_CNTRY>BLZ</GMI_CNTRY>
+			<ISO_2DIGIT>BZ</ISO_2DIGIT>
+			<ISO_3DIGIT>BLZ</ISO_3DIGIT>
+			<CNTRY_NAME>Belize</CNTRY_NAME>
+			<LONG_NAME>Belize</LONG_NAME>
+			<SOVEREIGN>Belize</SOVEREIGN>
+			<POP_CNTRY>207586</POP_CNTRY>
+			<CURR_TYPE>Dollar</CURR_TYPE>
+			<CURR_CODE>BZD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>22667.9</SQKM>
+			<SQMI>8752.08</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

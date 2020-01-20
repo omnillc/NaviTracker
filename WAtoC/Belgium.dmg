@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Belgium</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Belgium'>Search Google</a> <BR><a href='http://maps.google.com/?ll=50.6257252836874,4.69006448089409&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.541667,51.09111,0 3.370866,51.37386,0 3.439861000000001,51.24479000000001,0 3.895416,51.20569,0 4.238898,51.35043,0 4.327703,51.29012000000001,0 4.252368,51.37514,0 5.038472,51.48693999999999,0 5.238974,51.26227999999999,0 5.847132000000001,51.15319,0 5.638819,50.84888,0 6.011798000000001,50.75727000000001,0 6.270416,50.61985000000001,0 6.398204,50.32317,0 6.134414000000001,50.12785,0 5.973055,50.17000000000001,0 5.747777000000001,49.90749000000001,0 5.899166,49.66277000000001,0 5.807880000000001,49.54504,0 5.472777,49.50888,0 4.868472,49.80222,0 4.824724,50.16757,0 4.510555,49.94749,0 4.149238,49.97837,0 4.165,50.28305000000001,0 3.297083,50.5243,0 3.158576,50.78437,0 2.650555,50.81611,0 2.541667,51.09111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>BE</FIPS_CNTRY>
+			<GMI_CNTRY>BEL</GMI_CNTRY>
+			<ISO_2DIGIT>BE</ISO_2DIGIT>
+			<ISO_3DIGIT>BEL</ISO_3DIGIT>
+			<CNTRY_NAME>Belgium</CNTRY_NAME>
+			<LONG_NAME>Belgium</LONG_NAME>
+			<SOVEREIGN>Belgium</SOVEREIGN>
+			<POP_CNTRY>10032460</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>30711.36</SQKM>
+			<SQMI>11857.66</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

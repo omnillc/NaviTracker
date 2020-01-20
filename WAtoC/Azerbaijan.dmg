@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Azerbaijan</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Azerbaijan'>Search Google</a> <BR><a href='http://maps.google.com/?ll=40.2792395032201,48.807067634048&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_3</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78b0f1ae</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>48.807067634048,40.2792395032201,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								46.54037,38.87559,0 46.42315,39.2087,0 46.62054,39.22942,0 46.38416,39.40597,0 46.54569000000001,39.54937,0 45.60777,39.97179,0 45.90797,40.02395,0 45.99773,40.23082,0 45.53638,40.45693,0 45.38916,40.66374,0 45.61943000000001,40.86658,0 45.09637,41.05971,0 45.22109,41.13998,0 45.02294000000001,41.29705,0 45.34158999999999,41.46096,0 46.51471,41.04804,0 46.68964,41.31735,0 46.19443,41.69804000000001,0 46.45175,41.89706,0 46.76173000000001,41.86047,0 47.37109000000001,41.27193,0 47.85915000000001,41.20776000000001,0 49.76062000000001,42.71076,0 51.25018,41.23121,0 51.53362000000001,40.92519,0 51.67701,40.29601000000001,0 51.65331,39.40817,0 51.29456,38.95371,0 51.29271000000001,38.71485,0 49.71453,38.26281,0 48.62351,38.3965,0 48.02464000000001,38.83339,0 48.30874000000001,39.00374,0 48.12387,39.27818,0 48.35788,39.38991,0 47.98471,39.71558,0 46.54037,38.87559,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<innerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								45.58496,40.65152,0 45.508,40.66311,0 45.52538,40.60518,0 45.58496,40.65152,0 
+							</coordinates>
+						</LinearRing>
+					</innerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								44.99281,41.08526,0 45.05736,41.06016,0 45.01074000000001,41.02967,0 44.99281,41.08526,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								45.20081,40.99919,0 45.24026000000001,40.98484,0 45.22233,40.96512,0 45.20081,40.99919,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								44.81304,39.63081,0 44.77886,39.70638000000001,0 45.04707000000001,39.77916,0 45.46499,39.49402,0 45.81936,39.54916,0 46.17825000000001,38.84115,0 45.43348,39.00319,0 44.81304,39.63081,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>AJ</FIPS_CNTRY>
+			<GMI_CNTRY>AZE</GMI_CNTRY>
+			<ISO_2DIGIT>AZ</ISO_2DIGIT>
+			<ISO_3DIGIT>AZE</ISO_3DIGIT>
+			<CNTRY_NAME>Azerbaijan</CNTRY_NAME>
+			<LONG_NAME>Azerbaijan</LONG_NAME>
+			<SOVEREIGN>Azerbaijan</SOVEREIGN>
+			<POP_CNTRY>5487866</POP_CNTRY>
+			<CURR_TYPE>Manat</CURR_TYPE>
+			<CURR_CODE>AZM</CURR_CODE>
+			<LANDLOCKED>Y</LANDLOCKED>
+			<SQKM>164056.11</SQKM>
+			<SQMI>63342.06</SQMI>
+			<COLOR_MAP>4</COLOR_MAP>
+</Placemark></Folder></Document></kml>

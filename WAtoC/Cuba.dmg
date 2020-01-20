@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Cuba</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Cuba'>Search Google</a> <BR><a href='http://maps.google.com/?ll=21.6058454787594,-78.9813471725704&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_5</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-78.98134717257039,21.6058454787594,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-75.22372,19.90155,0 -76.24890000000001,19.99083,0 -77.72584000000001,19.83639,0 -77.11459000000001,20.36736,0 -77.23639,20.66306,0 -78.07223999999999,20.71389,0 -78.49515,21.0318,0 -78.74028,21.63472,0 -79.23195,21.54111,0 -79.98779,21.72361,0 -80.49196000000001,22.17722,0 -80.89111,22.03972,0 -81.82306,22.18361000000001,0 -82.16265,22.39528,0 -81.6489,22.49139,0 -81.88500999999999,22.68083,0 -82.76057,22.70083,0 -83.36806,22.20166,0 -83.92904000000001,22.1625,0 -84.02876000000001,21.91403,0 -84.50111000000001,21.76555,0 -84.49848,21.93472,0 -84.94528,21.84694,0 -84.33806000000001,22.01222,0 -84.40056,22.33278,0 -84.06994,22.66153,0 -82.22057,23.1875,0 -80.03764,22.95125000000001,0 -79.25903,22.37264,0 -78.79056,22.395,0 -78.08401000000001,22.0831,0 -77.40501,21.64805,0 -77.52916999999999,21.91027,0 -77.14001,21.65277,0 -77.36431,21.6141,0 -77.26584,21.48083,0 -77.06195,21.585,0 -76.89861000000001,21.30931,0 -75.61681,21.07041,0 -75.73668000000001,20.69694,0 -74.985,20.69333,0 -74.22736,20.31493,0 -74.13251000000001,20.19361,0 -74.26667999999999,20.06361,0 -75.08528,19.89304,0 -75.08719000000001,19.96512,0 -75.13974,19.96287,0 -75.09442,20.05282,0 -75.16766,20.01214,0 -75.15918000000001,19.96069,0 -75.19297,19.9606,0 -75.22642,19.92444,0 -75.22372,19.90155,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-78.42529,22.4125,0 -78.69347999999999,22.53319,0 -78.34972999999999,22.53972,0 -78.27772000000002,22.44278,0 -78.42529,22.4125,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.70556999999999,21.90861,0 -77.94723999999999,22.09833,0 -77.65257,22.06861,0 -77.70556999999999,21.90861,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-82.89722999999999,21.43278,0 -83.1914,21.6234,0 -82.93507,21.5866,0 -83.08945,21.78555,0 -82.97445999999999,21.94278,0 -82.71584,21.89027,0 -82.54306,21.58972,0 -82.89722999999999,21.43278,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>CU</FIPS_CNTRY>
+			<GMI_CNTRY>CUB</GMI_CNTRY>
+			<ISO_2DIGIT>CU</ISO_2DIGIT>
+			<ISO_3DIGIT>CUB</ISO_3DIGIT>
+			<CNTRY_NAME>Cuba</CNTRY_NAME>
+			<LONG_NAME>Cuba</LONG_NAME>
+			<SOVEREIGN>Cuba</SOVEREIGN>
+			<POP_CNTRY>11102280</POP_CNTRY>
+			<CURR_TYPE>Peso</CURR_TYPE>
+			<CURR_CODE>CUP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>107891.05</SQKM>
+			<SQMI>41656.75</SQMI>
+			<COLOR_MAP>6</COLOR_MAP>
+</Placemark></Folder></Document></kml>

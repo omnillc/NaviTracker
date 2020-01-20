@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Bhutan</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Bhutan'>Search Google</a> <BR><a href='http://maps.google.com/?ll=27.4162417907029,90.4450387725753&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_6</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bebeff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							88.91692999999999,27.32083,0 89.48749000000001,28.05777,0 89.99818999999999,28.32369,0 90.38898000000002,28.24257,0 90.37649999999999,28.07958,0 91.08693,27.96999,0 91.30137999999999,28.08111,0 91.66276999999999,27.945,0 91.65776,27.76472,0 91.67582,27.48708,0 91.99366000000001,27.47558,0 92.11422,27.29305,0 92.03123000000001,26.85194,0 90.7086,26.7725,0 90.38874,26.90347,0 89.64305000000002,26.71527,0 88.89388,26.97555,0 88.75194,27.14861,0 88.91692999999999,27.32083,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>BT</FIPS_CNTRY>
+			<GMI_CNTRY>BTN</GMI_CNTRY>
+			<ISO_2DIGIT>BT</ISO_2DIGIT>
+			<ISO_3DIGIT>BTN</ISO_3DIGIT>
+			<CNTRY_NAME>Bhutan</CNTRY_NAME>
+			<LONG_NAME>Bhutan</LONG_NAME>
+			<SOVEREIGN>Bhutan</SOVEREIGN>
+			<POP_CNTRY>1586631</POP_CNTRY>
+			<CURR_TYPE>Ngultrum</CURR_TYPE>
+			<CURR_CODE>BTN</CURR_CODE>
+			<LANDLOCKED>Y</LANDLOCKED>
+			<SQKM>39408.2</SQKM>
+			<SQMI>15215.51</SQMI>
+			<COLOR_MAP>7</COLOR_MAP>
+</Placemark></Folder></Document></kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Baker I.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Baker I.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=0.219094629089038,-176.461675008138&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-176.4559,0.2225572,0 -176.4615,0.2152693,0 -176.4677,0.2194573,0 -176.4559,0.2225572,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>FQ</FIPS_CNTRY>
+			<GMI_CNTRY>UMI</GMI_CNTRY>
+			<ISO_2DIGIT>UM</ISO_2DIGIT>
+			<CNTRY_NAME>Baker I.</CNTRY_NAME>
+			<LONG_NAME>Baker Island</LONG_NAME>
+			<SOVEREIGN>United States</SOVEREIGN>
+			<POP_CNTRY>-99999</POP_CNTRY>
+			<CURR_CODE>NCIC</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>0.42</SQKM>
+			<SQMI>0.16</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>
