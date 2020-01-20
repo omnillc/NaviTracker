@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Estonia</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Estonia'>Search Google</a> <BR><a href='http://maps.google.com/?ll=58.6793203380625,25.525257160707&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_5</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78ffe8be</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>25.525257160707,58.6793203380625,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								28.01583000000001,59.4786,0 28.1643,59.30371000000001,0 27.91649,59.27366,0 27.42833,58.81590000000001,0 27.47576,58.21312,0 27.8202,57.86742,0 27.54861,57.81861,0 27.37206,57.53564,0 26.90222,57.63346,0 26.51139,57.52610000000001,0 25.29784,58.08326000000001,0 24.31498,57.87183000000001,0 24.55451,58.32471,0 24.33083,58.38666,0 24.10361,58.23554,0 23.72861,58.37083,0 23.49555,58.69415000000001,0 23.86423,58.77305000000001,0 23.48305,58.80999,0 23.43833,58.93999000000001,0 23.63666,58.97429,0 23.41041,59.01569000000001,0 23.50527,59.2268,0 24.79597,59.56499000000001,0 25.39921,59.48823000000001,0 25.47742,59.65805,0 26.97277,59.44444000000001,0 28.01583000000001,59.4786,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								22.56527000000001,58.68665000000001,0 22.0443,58.94263000000001,0 22.57583,59.06860000000001,0 22.92972,58.98249,0 23.04528000000001,58.83638,0 22.56527000000001,58.68665000000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								23.24746,58.67105,0 23.37611,58.53305000000001,0 23.05902,58.60458,0 23.24746,58.67105,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								22.03778000000001,57.90833,0 22.19409,58.14524000000001,0 21.84451,58.28916000000001,0 22.00694,58.35666,0 21.83736,58.50666,0 22.91125,58.6168,0 23.32819,58.44694,0 22.37291,58.22138000000001,0 22.03778000000001,57.90833,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>EN</FIPS_CNTRY>
+			<GMI_CNTRY>EST</GMI_CNTRY>
+			<ISO_2DIGIT>EE</ISO_2DIGIT>
+			<ISO_3DIGIT>EST</ISO_3DIGIT>
+			<CNTRY_NAME>Estonia</CNTRY_NAME>
+			<LONG_NAME>Estonia</LONG_NAME>
+			<SOVEREIGN>Estonia</SOVEREIGN>
+			<POP_CNTRY>1590808</POP_CNTRY>
+			<CURR_TYPE>Kroon</CURR_TYPE>
+			<CURR_CODE>EKK</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>45514.89</SQKM>
+			<SQMI>17573.3</SQMI>
+			<COLOR_MAP>6</COLOR_MAP>
+</Placemark></Folder></Document></kml>

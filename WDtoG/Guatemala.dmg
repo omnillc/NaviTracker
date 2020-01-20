@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Guatemala</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Guatemala'>Search Google</a> <BR><a href='http://maps.google.com/?ll=15.6844485927129,-90.3582166620897&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_7</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78e8beff</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-89.34831000000001,14.43198,0 -89.57098000000001,14.41472,0 -89.51817,14.23385,0 -90.09639,13.74583,0 -91.38473999999999,13.97889,0 -92.24678,14.55055,0 -92.07069000000001,15.07729,0 -92.2114,15.26222,0 -91.72917,16.075,0 -90.44196000000001,16.08833,0 -90.4064,16.41639,0 -91.434,17.23722,0 -90.98390000000001,17.25611,0 -90.98242000000002,17.82065,0 -89.14194999999999,17.81889,0 -89.21617000000001,15.88985,0 -88.91057000000001,15.89361,0 -88.61806000000001,15.69854,0 -88.55139,15.94083,0 -88.21474000000001,15.72444,0 -89.15038,15.07348,0 -89.13779,14.68472,0 -89.34831000000001,14.43198,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>GT</FIPS_CNTRY>
+			<GMI_CNTRY>GTM</GMI_CNTRY>
+			<ISO_2DIGIT>GT</ISO_2DIGIT>
+			<ISO_3DIGIT>GTM</ISO_3DIGIT>
+			<CNTRY_NAME>Guatemala</CNTRY_NAME>
+			<LONG_NAME>Guatemala</LONG_NAME>
+			<SOVEREIGN>Guatemala</SOVEREIGN>
+			<POP_CNTRY>10321270</POP_CNTRY>
+			<CURR_TYPE>Quetzal</CURR_TYPE>
+			<CURR_CODE>GTQ</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>109829.01</SQKM>
+			<SQMI>42404.98</SQMI>
+			<COLOR_MAP>8</COLOR_MAP>
+</Placemark></Folder></Document></kml>

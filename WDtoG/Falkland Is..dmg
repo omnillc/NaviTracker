@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Falkland Is.</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Falkland Is.'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-51.7347819215171,-59.3056415176831&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_0</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78beffd3</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-59.30564151768311,-51.7347819215171,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-58.99473,-51.80667,0 -59.16827,-51.58528,0 -58.84862,-51.29139,0 -58.41251,-51.32341000000001,0 -58.32459,-51.41608,0 -58.55029,-51.43362,0 -58.24139000000001,-51.65014,0 -58.27480000000001,-51.41375,0 -57.91542,-51.37528,0 -57.77292,-51.54375,0 -58.13895999999999,-51.54986,0 -57.7332,-51.69445,0 -58.42000000000001,-51.9007,0 -58.93556,-51.80125,0 -58.64695,-52.06722,0 -59.25167,-51.99111000000001,0 -59.05070000000001,-52.2175,0 -59.44979,-52.14674,0 -59.34806,-52.34306,0 -59.71612,-52.11737,0 -59.22125,-51.71709,0 -58.99473,-51.80667,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-60.34528,-51.86084,0 -60.17848,-51.71223000000001,0 -60.63841,-51.67973,0 -60.16361,-51.67112,0 -60.64362000000001,-51.35806,0 -60.12722000000001,-51.49473,0 -60.02320000000001,-51.38126,0 -59.21167000000001,-51.40820000000001,0 -60.36806,-52.15917,0 -60.62458000000001,-52.2432,0 -60.98083000000001,-52.06195,0 -60.43972000000001,-51.96209000000001,0 -60.44035,-51.78285,0 -60.34528,-51.86084,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-60.99306000000001,-51.96584,0 -61.13917,-51.83528,0 -60.89084,-51.82584000000001,0 -60.99306000000001,-51.96584,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>FK</FIPS_CNTRY>
+			<GMI_CNTRY>FLK</GMI_CNTRY>
+			<ISO_2DIGIT>FK</ISO_2DIGIT>
+			<ISO_3DIGIT>FLK</ISO_3DIGIT>
+			<CNTRY_NAME>Falkland Is.</CNTRY_NAME>
+			<LONG_NAME>Falkland Islands (Islas Malvinas)</LONG_NAME>
+			<SOVEREIGN>United Kingdom</SOVEREIGN>
+			<POP_CNTRY>2136</POP_CNTRY>
+			<CURR_TYPE>Pound</CURR_TYPE>
+			<CURR_CODE>FKP</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>10216.81</SQKM>
+			<SQMI>3944.71</SQMI>
+			<COLOR_MAP>1</COLOR_MAP>
+</Placemark></Folder></Document></kml>

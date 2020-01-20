@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Grenada</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Grenada'>Search Google</a> <BR><a href='http://maps.google.com/?ll=12.0910708109538,-61.6938285827637&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-61.65487,12.23638,0 -61.64147000000001,12.03303,0 -61.78515,12.00381,0 -61.65487,12.23638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>GJ</FIPS_CNTRY>
+			<GMI_CNTRY>GRD</GMI_CNTRY>
+			<ISO_2DIGIT>GD</ISO_2DIGIT>
+			<ISO_3DIGIT>GRD</ISO_3DIGIT>
+			<CNTRY_NAME>Grenada</CNTRY_NAME>
+			<LONG_NAME>Grenada</LONG_NAME>
+			<SOVEREIGN>Grenada</SOVEREIGN>
+			<POP_CNTRY>95608</POP_CNTRY>
+			<CURR_TYPE>EC Dollar</CURR_TYPE>
+			<CURR_CODE>XCD</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>178.96</SQKM>
+			<SQMI>69.09999999999999</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

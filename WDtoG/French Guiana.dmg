@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>French Guiana</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=French Guiana'>Search Google</a> <BR><a href='http://maps.google.com/?ll=3.92861922169842,-53.2456828057527&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.68407,4.034163,0 -52.34494,3.157403,0 -52.59445,2.473889,0 -52.89646,2.206805,0 -53.74611,2.370972,0 -54.10966000000001,2.113472,0 -54.60378,2.329195,0 -54.20459,2.775,0 -54.20612000000001,3.145278,0 -54.00110999999999,3.448333,0 -54.36077,4.04243,0 -54.47778,4.754166,0 -54.16668000000001,5.347403,0 -53.85861,5.755416000000001,0 -52.93778,5.458333,0 -52.02348000000001,4.685694,0 -52.0407,4.334583,0 -51.91556,4.646527000000001,0 -51.79445,4.605556,0 -51.68407,4.034163,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<tesselate>1</tesselate>
+			</Polygon>
+			<FIPS_CNTRY>FG</FIPS_CNTRY>
+			<GMI_CNTRY>GUF</GMI_CNTRY>
+			<ISO_2DIGIT>GF</ISO_2DIGIT>
+			<ISO_3DIGIT>GUF</ISO_3DIGIT>
+			<CNTRY_NAME>French Guiana</CNTRY_NAME>
+			<LONG_NAME>French Guiana</LONG_NAME>
+			<SOVEREIGN>France</SOVEREIGN>
+			<POP_CNTRY>130219</POP_CNTRY>
+			<CURR_TYPE>Euro</CURR_TYPE>
+			<CURR_CODE>EUR</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>83726.17999999999</SQKM>
+			<SQMI>32326.68</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>

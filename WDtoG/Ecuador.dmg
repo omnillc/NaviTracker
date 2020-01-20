@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>World Countries</name>
+<Placemark>
+			<name>Ecuador</name>
+			<description><![CDATA[<a href='http://www.google.com/search?q=Ecuador'>Search Google</a> <BR><a href='http://maps.google.com/?ll=-1.43300827931278,-78.6693308042804&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+			<styleUrl>#khStyle548_4</styleUrl>
+			<Style>
+				<PolyStyle>
+					<color>78bee4ef</color>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+<Point>
+				<coordinates>-78.66933080428041,-1.43300827931278,0</coordinates>
+</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-78.80972,1.437778,0 -78.10001,0.9159722000000001,0 -77.67834000000001,0.8372222,0 -77.37946000000001,0.3847222,0 -76.54515000000002,0.2191667,0 -76.24306,0.3955555,0 -75.28583999999999,-0.1197222,0 -75.61581,-0.1065203,0 -75.24438000000001,-0.5609722,0 -75.21684,-0.9693664,0 -75.40224000000001,-0.9227779000000002,0 -75.56395000000001,-1.539957,0 -76.66063000000001,-2.572135,0 -77.85959,-2.985834000000001,0 -78.1814,-3.472222,0 -78.32944999999999,-3.417222,0 -78.66681,-4.554862000000001,0 -79.03667,-4.995556,0 -79.28570999999999,-4.964584,0 -79.64319999999999,-4.435417,0 -80.13460000000001,-4.284491,0 -80.46375999999999,-4.441806,0 -80.34028000000001,-4.199514,0 -80.50167999999999,-4.050279,0 -80.15334,-3.884227999999999,0 -80.34041999999999,-3.380517000000001,0 -79.89223,-3.058889,0 -79.72681,-2.596945,0 -79.8441,-2.378195,0 -79.76291999999999,-2.014028,0 -79.90584,-2.559306,0 -80.06473,-2.573334000000001,0 -80.02549,-2.342153,0 -80.25223,-2.733195,0 -80.89001,-2.320556,0 -80.97667,-2.185,0 -80.73098,-1.937917,0 -80.91279,-1.036528,0 -80.57605000000001,-0.8977084000000001,0 -80.43326999999999,-0.569514,0 -80.26972000000001,-0.6253819,0 -80.50118000000001,-0.3725695,0 -80.06945000000002,0.06041666,0 -80.0491,0.83125,0 -78.99945,1.172222,0 -78.80972,1.437778,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-91.25536,-4.336809e-19,0 -90.81084000000001,-0.7325001,0 -90.92659999999999,-0.9675,0 -91.16501000000001,-1.032639,0 -91.49293000000002,-0.91875,0 -91.08368000000002,-0.589757,0 -91.43604000000001,-0.01791667,0 -91.60487000000002,-0.01027778,0 -91.39182,0.1247222,0 -91.25536,-4.336809e-19,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-90.60583,-0.3755556,0 -90.82653000000001,-0.3379167,0 -90.83472999999999,-0.1769445,0 -90.59889,-0.2316667,0 -90.60583,-0.3755556,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-91.49890000000001,-0.4961112,0 -91.66388999999999,-0.3161111,0 -91.46903000000002,-0.2494445,0 -91.49890000000001,-0.4961112,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-90.33862000000002,-0.781389,0 -90.53959,-0.6919445,0 -90.48806999999999,-0.5283334,0 -90.1871,-0.5462501,0 -90.33862000000002,-0.781389,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-89.53334,-0.9586111,0 -89.61751,-0.8979167,0 -89.25723000000002,-0.6894445,0 -89.53334,-0.9586111,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-80.2114,-3.036667,0 -80.20807000000001,-2.726111,0 -79.90279,-2.722084,0 -80.2114,-3.036667,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<tesselate>1</tesselate>
+				</Polygon>
+			</MultiGeometry>
+			<FIPS_CNTRY>EC</FIPS_CNTRY>
+			<GMI_CNTRY>ECU</GMI_CNTRY>
+			<ISO_2DIGIT>EC</ISO_2DIGIT>
+			<ISO_3DIGIT>ECU</ISO_3DIGIT>
+			<CNTRY_NAME>Ecuador</CNTRY_NAME>
+			<LONG_NAME>Ecuador</LONG_NAME>
+			<SOVEREIGN>Ecuador</SOVEREIGN>
+			<POP_CNTRY>10541820</POP_CNTRY>
+			<CURR_TYPE>Sucre</CURR_TYPE>
+			<CURR_CODE>ECS</CURR_CODE>
+			<LANDLOCKED>N</LANDLOCKED>
+			<SQKM>254766.78</SQKM>
+			<SQMI>98365.46000000001</SQMI>
+			<COLOR_MAP>5</COLOR_MAP>
+</Placemark></Folder></Document></kml>
